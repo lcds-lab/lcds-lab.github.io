@@ -1,0 +1,21 @@
+{{ define "main" }}
+<section class="page-hero compact">
+  <p class="eyebrow">{{ .Title }}</p>
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}
+</section>
+<article class="page-body">
+  {{ .Content }}
+  {{ if .Pages }}
+    <div class="list-grid">
+      {{ range .Pages.ByDate.Reverse }}
+        <a class="list-card" href="{{ .RelPermalink }}">
+          <span>{{ .Date.Format "January 2, 2006" }}</span>
+          <strong>{{ .Title }}</strong>
+          {{ with .Description }}<p>{{ . }}</p>{{ end }}
+        </a>
+      {{ end }}
+    </div>
+  {{ end }}
+</article>
+{{ end }}

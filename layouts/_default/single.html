@@ -1,0 +1,10 @@
+{{ define "main" }}
+<section class="page-hero compact">
+  <p class="eyebrow">{{ .Section | humanize }}</p>
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}
+</section>
+<article class="page-body">
+  {{ .Content }}
+</article>
+{{ end }}

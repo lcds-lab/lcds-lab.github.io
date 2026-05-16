@@ -1,0 +1,56 @@
+baseURL = 'https://lcds-lab.github.io/'
+locale = 'en-us'
+title = 'Longitudinal Causal Data Science Lab'
+
+[params]
+  description = 'The Longitudinal Causal Data Science Lab at the University of Florida advances longitudinal study design, causal inference, and education data science.'
+  author = 'Longitudinal Causal Data Science Lab'
+  ufUnit = 'College of Education, University of Florida'
+  contactEmail = 'wei.li@coe.ufl.edu'
+  personalWebsite = 'https://sites.google.com/view/weiliedu/home'
+  postdocLink = 'https://explore.jobs.ufl.edu/en-us/job/539018/postdoctoral-scholar-research-and-evaluation-methodology-program'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menu.main]]
+  name = 'Home'
+  url = '/'
+  weight = 10
+
+[[menu.main]]
+  name = 'News'
+  url = '/news/'
+  weight = 20
+
+[[menu.main]]
+  name = 'People'
+  url = '/people/'
+  weight = 30
+
+[[menu.main]]
+  name = 'Research'
+  url = '/research/'
+  weight = 40
+
+[[menu.main]]
+  name = 'Posts'
+  url = '/posts/'
+  weight = 50
+
+[[menu.main]]
+  name = 'Publications'
+  url = '/publications/'
+  weight = 60
+
+[[menu.main]]
+  name = 'Teaching'
+  url = '/teaching/'
+  weight = 70
+
+[[menu.main]]
+  name = 'Join us'
+  url = '/join/'
+  weight = 80

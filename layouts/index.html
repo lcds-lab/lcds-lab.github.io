@@ -1,0 +1,69 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="hero-copy">
+    <p class="eyebrow">University of Florida College of Education</p>
+    <h1>Longitudinal Causal Data Science Lab</h1>
+    <p class="lede">Advancing longitudinal study design, causal inference, and data science to improve education research, policy, and practice.</p>
+    <div class="hero-actions">
+      <a class="button primary" href="{{ "/research/" | relURL }}">Explore Research</a>
+      <a class="button secondary" href="{{ "/join/" | relURL }}">Join Us</a>
+    </div>
+  </div>
+  <div class="hero-panel" aria-label="Lab focus areas">
+    <span>Longitudinal Designs</span>
+    <span>Causal Inference</span>
+    <span>Education Data Science</span>
+    <span>AI and Machine Learning</span>
+  </div>
+</section>
+
+<section class="section-grid">
+  <div class="section-intro">
+    <p class="eyebrow">What We Do</p>
+    <h2>Methods for learning from complex education data</h2>
+  </div>
+  <div class="cards four">
+    <article class="card">
+      <h3>Longitudinal Study Design</h3>
+      <p>We develop design and analysis strategies for repeated measures, growth models, and multilevel longitudinal studies.</p>
+    </article>
+    <article class="card">
+      <h3>Causal Inference</h3>
+      <p>We study experimental and quasi-experimental approaches for estimating causal effects in real education systems.</p>
+    </article>
+    <article class="card">
+      <h3>Education Data Science</h3>
+      <p>We use large-scale administrative, digital learning, and assessment data to answer policy-relevant questions.</p>
+    </article>
+    <article class="card">
+      <h3>AI-Enabled Evaluation</h3>
+      <p>We explore how machine learning and AI can support interpretable, equitable, and rigorous program evaluation.</p>
+    </article>
+  </div>
+</section>
+
+<section class="highlight-band">
+  <div>
+    <p class="eyebrow">Led by Wei Li</p>
+    <h2>Building rigorous evidence for education decisions</h2>
+  </div>
+  <p>The lab is directed by Wei Li, Associate Professor in Research and Evaluation Methodology at the University of Florida and NSF CAREER Awardee. Our work connects statistical methodology, causal evaluation, and applied partnerships in education.</p>
+</section>
+
+<section class="section-grid news-preview">
+  <div class="section-intro">
+    <p class="eyebrow">News</p>
+    <h2>Recent updates</h2>
+    <a href="{{ "/news/" | relURL }}">View all news</a>
+  </div>
+  <div class="list-grid">
+    {{ range first 3 (where .Site.RegularPages "Section" "news").ByDate.Reverse }}
+      <a class="list-card" href="{{ .RelPermalink }}">
+        <span>{{ .Date.Format "January 2, 2006" }}</span>
+        <strong>{{ .Title }}</strong>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+      </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
