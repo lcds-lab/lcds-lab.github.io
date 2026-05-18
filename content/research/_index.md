@@ -80,7 +80,6 @@ This theme uses digital learning, online program, assessment, and administrative
 
 ### Selected Funded Projects
 
-- Bill & Melinda Gates Foundation, AIMS EduData Initiative, "Interpretable Teacher Engagement Profiles and Causal Effects in Math Matrix Micro-Credentials," **Principal Investigator**, 2026.
 - Bill & Melinda Gates Foundation, "Democratizing High-Quality Course Sequence Knowledge," Co-Principal Investigator, 2022-2024.
 - University of Florida Artificial Intelligence & Informatics Research Institute SEED Fund, "CRISIS: Counselor Response & Intervention Simulation with Intelligent Support," Project team, 2026-2027.
 - Florida Center for Cybersecurity, "Project HaHa: Low-Cost Hands-on Hardware Security Education," Co-Principal Investigator, 2022-2023.
