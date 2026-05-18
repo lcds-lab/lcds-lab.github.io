@@ -177,6 +177,11 @@ h1 {
   letter-spacing: -0.055em;
 }
 
+.hero h1 {
+  font-size: clamp(2.8rem, 5.8vw, 4.9rem);
+  max-width: 13ch;
+}
+
 h2 {
   font-size: clamp(2rem, 4vw, 3.6rem);
   color: var(--uf-blue);
@@ -426,7 +431,7 @@ h3 {
   font-weight: 700;
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 1500px) {
   .nav-links {
     width: 100%;
     justify-content: flex-start;
