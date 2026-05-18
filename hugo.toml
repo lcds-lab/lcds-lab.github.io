@@ -36,8 +36,8 @@ title = 'Longitudinal Causal Data Science Lab'
   weight = 40
 
 [[menu.main]]
-  name = 'Posts'
-  url = '/posts/'
+  name = 'Events'
+  url = '/events/'
   weight = 50
 
 [[menu.main]]
