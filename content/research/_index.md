@@ -30,7 +30,7 @@ This theme focuses on study design and sample size planning for longitudinal exp
 
 ### Selected Funded Projects
 
-- NSF CAREER Award, "Statistical Power Analysis and Optimal Sample Size Planning for Longitudinal Studies in STEM Education," **Principal Investigator**, 2024-2029.
+- [NSF CAREER Award, "Statistical Power Analysis and Optimal Sample Size Planning for Longitudinal Studies in STEM Education"](/projects/nsf-career-longitudinal-studies/), **Principal Investigator**, 2024-2029.
 - University of Florida Lastinger Center for Learning Research Catalyst Award, "Enhancing Longitudinal Program Evaluations: Estimating Design Parameters and Illustrating Advanced Quasi-Experimental Methods Using UF Lastinger Center Data," **Principal Investigator**, 2025-2026.
 - University of Florida HDOSE Strategic Reinvestment Fund, "Sample Size and Power Analysis Methods for Propensity Score-Based Quasi-Experimental Studies with Multilevel and Longitudinal Designs," **Principal Investigator**, 2025-2026.
 
@@ -116,7 +116,7 @@ This theme focuses on designing evaluations that connect program impacts with co
 - Dong, N., Maynard, R., Kelcey, B., Spybrook, J., **Li, W.**, & Bowden, B. (2025). Advantages of Monte Carlo confidence intervals for incremental cost-effectiveness ratios: A comparison of five methods. *Journal of Research on Educational Effectiveness, 18*(4), 951-979. [doi:10.1080/19345747.2024.2393412](https://doi.org/10.1080/19345747.2024.2393412)
 - **Li, W.**, Dong, N., Maynard, R., Spybrook, J., & Kelcey, B. (2023). Experimental design and statistical power for cluster randomized cost-effectiveness trials. *Journal of Research on Educational Effectiveness, 16*(4), 681-706. [doi:10.1080/19345747.2022.2142177](https://doi.org/10.1080/19345747.2022.2142177)
 - **Li, W.**, Dong, N., & Maynard, R. (2020). Power analysis for two-level multisite randomized cost-effectiveness trials. *Journal of Educational and Behavioral Statistics, 45*(6), 690-718. [doi:10.3102/1076998620911916](https://doi.org/10.3102/1076998620911916)
-- **Li, W.**, Dong, N., Maynard, R. A., Spybrook, J., & Kelcey, B. (2023). *PowerUp!-CEA: A tool for calculating statistical power in multilevel randomized cost-effectiveness trials* (Version 1.2). [Software](https://www.causalevaluation.org/multilevel-cost-effectiveness-trials.html).
+- **Li, W.**, Dong, N., Maynard, R. A., Spybrook, J., & Kelcey, B. (2023). *PowerUp!-CEA: A tool for calculating statistical power in multilevel randomized cost-effectiveness trials* (Version 1.2). [Software](/software/).
 
 ### Selected Presentations
 
