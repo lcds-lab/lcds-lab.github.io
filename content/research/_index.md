@@ -3,7 +3,7 @@ title: "Research"
 description: "Research themes in longitudinal study design, causal inference, education data science, and evaluation."
 ---
 
-The LCDS Lab develops and applies rigorous methods for studying education programs, policies, and learning systems over time. The themes below highlight selected funded projects, representative papers, and selected presentations from Wei Li's CV and publication record.
+The LCDS Lab develops and applies rigorous methods for studying education programs, policies, and learning systems over time. The themes below highlight selected funded projects, representative papers, and selected presentations.
 
 <div class="cards four">
   <article class="card">
