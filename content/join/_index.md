@@ -3,7 +3,7 @@ title: "Join us"
 description: "Opportunities for postdoctoral scholars, doctoral students, and collaborators."
 ---
 
-We welcome people who are excited about longitudinal study design, causal inference, education data science, and rigorous evaluation of education programs.
+We welcome people who are excited about longitudinal design, causal evaluation, education data science, AI, cost-effectiveness, and rigorous evaluation of education programs.
 
 <div class="callout">
   <h2>Postdoctoral opportunity</h2>
@@ -13,8 +13,8 @@ We welcome people who are excited about longitudinal study design, causal infere
 
 ## Prospective Doctoral Students
 
-Students interested in quantitative methods, causal inference, longitudinal designs, and education data science are encouraged to read about the Research and Evaluation Methodology program and reach out with a concise description of research interests.
+Students interested in quantitative methods, longitudinal designs, causal evaluation, heterogeneous treatment effects, and education data science are encouraged to read about the Research and Evaluation Methodology program and reach out with a concise description of research interests.
 
 ## Collaborators
 
-The lab is especially interested in collaborations that connect methodological development with real education decisions, including digital learning platforms, teacher professional learning, STEM education, early intervention, and cost-effectiveness.
+The lab is especially interested in collaborations that connect methodological development with real education decisions, including digital learning platforms, AI-enabled learning systems, teacher professional learning, STEM education, early intervention, implementation, and cost-effectiveness.

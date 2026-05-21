@@ -3,12 +3,12 @@ title: "Events"
 description: "Seminars, workshops, reading groups, and methods-focused events hosted or shared by the LCDS Lab."
 ---
 
-The LCDS Lab will use this page to share seminars, workshops, reading groups, and other events related to longitudinal study design, causal inference, and education data science.
+The LCDS Lab will use this page to share seminars, workshops, reading groups, and other events related to longitudinal design, causal evaluation, education data science, AI, and cost-effectiveness.
 
 <div class="cards four">
   <article class="card">
     <h2>Seminars</h2>
-    <p>Research talks and invited presentations on longitudinal methods, causal inference, data science, and education evaluation.</p>
+    <p>Research talks and invited presentations on longitudinal methods, causal evaluation, data science, AI, and education evaluation.</p>
     <p><a href="/events/seminars/">Learn more about seminars</a></p>
   </article>
   <article class="card">
@@ -18,7 +18,7 @@ The LCDS Lab will use this page to share seminars, workshops, reading groups, an
   </article>
   <article class="card">
     <h2>Reading and Methods Group</h2>
-    <p>Informal discussions of papers, methods, and emerging tools in causal data science and longitudinal education research.</p>
+    <p>Informal discussions of papers, methods, and emerging tools in causal data science, AI, and longitudinal education research.</p>
     <p><a href="/events/reading-methods-group/">Learn more about the group</a></p>
   </article>
 </div>
@@ -30,10 +30,10 @@ No upcoming events are listed yet. Please check back for updates.
 ## Event Topics
 
 <ul class="pill-list">
-  <li>Longitudinal designs</li>
-  <li>Causal inference</li>
-  <li>Education data science</li>
-  <li>Machine learning for evaluation</li>
-  <li>Power analysis</li>
-  <li>Cost-effectiveness analysis</li>
+  <li>Longitudinal design and power</li>
+  <li>Causal evaluation</li>
+  <li>Heterogeneous treatment effects</li>
+  <li>Education data science and AI</li>
+  <li>Digital learning systems</li>
+  <li>Cost-effectiveness and implementation</li>
 </ul>

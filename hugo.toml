@@ -3,7 +3,7 @@ locale = 'en-us'
 title = 'Longitudinal Causal Data Science Lab'
 
 [params]
-  description = 'The Longitudinal Causal Data Science Lab at the University of Florida advances longitudinal study design, causal inference, and education data science.'
+  description = 'The Longitudinal Causal Data Science Lab at the University of Florida advances longitudinal study design, causal evaluation, education data science, AI, and cost-effectiveness methods for education decisions.'
   author = 'Longitudinal Causal Data Science Lab'
   ufUnit = 'College of Education, University of Florida'
   contactEmail = 'wei.li@coe.ufl.edu'

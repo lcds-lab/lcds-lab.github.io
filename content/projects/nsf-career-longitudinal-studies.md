@@ -8,6 +8,8 @@ The NSF CAREER project, **Statistical Power Analysis and Optimal Sample Size Pla
 
 Longitudinal studies are central to education research because many interventions unfold over time. Researchers may care about effects at a specific time point, average effects across time, or changes in effects over time. This project addresses a practical design challenge: how to plan longitudinal experimental and quasi-experimental studies with adequate statistical power under realistic design and budget constraints.
 
+This project anchors the lab's focus on [Longitudinal Design, Power, and Optimal Study Planning](/research/#longitudinal-design-power-and-optimal-study-planning).
+
 ## Project Information
 
 - **Funding agency:** National Science Foundation

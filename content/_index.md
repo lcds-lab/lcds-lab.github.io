@@ -1,4 +1,4 @@
 ---
 title: "Longitudinal Causal Data Science Lab"
-description: "Advancing longitudinal study design, causal inference, and education data science at the University of Florida."
+description: "Advancing longitudinal design, causal evaluation, education data science, AI, and cost-effectiveness methods at the University of Florida."
 ---

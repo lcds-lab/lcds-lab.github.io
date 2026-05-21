@@ -1,32 +1,32 @@
 ---
 title: "Research"
-description: "Research themes in longitudinal study design, causal inference, education data science, and evaluation."
+description: "Research themes in longitudinal design, causal evaluation, education data science, AI, cost-effectiveness, and implementation evidence."
 ---
 
-The LCDS Lab develops and applies rigorous methods for studying education programs, policies, and learning systems over time. The themes below highlight selected funded projects, representative papers, and selected presentations.
+The LCDS Lab develops and applies rigorous methods for studying education programs, policies, and learning systems over time. The four focus areas below organize our funded projects, representative papers, software, and presentations.
 
 <div class="cards four">
   <article class="card">
-    <h2><a href="#longitudinal-designs-and-statistical-power">Longitudinal Designs and Statistical Power</a></h2>
-    <p>Designing longitudinal experiments and quasi-experiments with attention to power, sample size, multilevel structure, and repeated measures.</p>
+    <h2><a href="#longitudinal-design-power-and-optimal-study-planning">Longitudinal Design, Power, and Optimal Study Planning</a></h2>
+    <p>Designing longitudinal experiments and quasi-experiments with attention to power, sample size, multilevel structure, repeated measures, and realistic study constraints.</p>
   </article>
   <article class="card">
-    <h2><a href="#causal-inference-and-causal-machine-learning">Causal Inference and Causal Machine Learning</a></h2>
-    <p>Developing and applying experimental, quasi-experimental, propensity score, mediation, moderation, and causal machine learning methods.</p>
+    <h2><a href="#causal-evaluation-and-heterogeneous-treatment-effects">Causal Evaluation and Heterogeneous Treatment Effects</a></h2>
+    <p>Developing and applying experimental, quasi-experimental, staggered difference-in-differences, mediation, moderation, and machine learning methods for understanding what works, for whom, and under what conditions.</p>
   </article>
   <article class="card">
-    <h2><a href="#education-data-science-and-digital-learning">Education Data Science and Digital Learning</a></h2>
-    <p>Using large-scale, digital, and administrative education data to support interpretable evidence for learning systems and policy.</p>
+    <h2><a href="#education-data-science-ai-and-digital-learning-systems">Education Data Science, AI, and Digital Learning Systems</a></h2>
+    <p>Using large-scale, digital, administrative, assessment, and AI-enabled education data to support interpretable evidence for learning systems and policy.</p>
   </article>
   <article class="card">
-    <h2><a href="#evaluation-cost-effectiveness-and-intervention-evidence">Evaluation, Cost-Effectiveness, and Intervention Evidence</a></h2>
-    <p>Connecting impact, implementation, cost, and scalability for education interventions and program evaluation.</p>
+    <h2><a href="#intervention-evaluation-cost-effectiveness-and-implementation-evidence">Intervention Evaluation, Cost-Effectiveness, and Implementation Evidence</a></h2>
+    <p>Connecting impacts with cost, implementation, scalability, and decision-making for education interventions and program evaluation.</p>
   </article>
 </div>
 
-## Longitudinal Designs and Statistical Power
+## Longitudinal Design, Power, and Optimal Study Planning
 
-This theme focuses on study design and sample size planning for longitudinal experiments and quasi-experiments, especially when students, teachers, classrooms, schools, and sites create multilevel dependence.
+This focus area develops design and sample size planning methods for longitudinal experiments and quasi-experiments, especially when students, teachers, classrooms, schools, and sites create multilevel dependence and repeated measures over time.
 
 ### Selected Funded Projects
 
@@ -48,9 +48,9 @@ This theme focuses on study design and sample size planning for longitudinal exp
 - **Li, W.**, & Kotsiopoulos, S. (2024). *Power analysis for main and moderator effects in multisite longitudinal experiments with site fixed effects*. AERA Annual Meeting.
 - **Li, W.** (2022). *Design parameters for planning longitudinal experiments in education*. SREE Annual Meeting.
 
-## Causal Inference and Causal Machine Learning
+## Causal Evaluation and Heterogeneous Treatment Effects
 
-This theme brings together causal identification, quasi-experimental design, mediation and moderation, and machine learning approaches for estimating heterogeneous treatment effects in education.
+This focus area brings together causal identification, quasi-experimental design, mediation and moderation, staggered difference-in-differences, and machine learning approaches for estimating heterogeneous treatment effects in education.
 
 ### Selected Funded Projects
 
@@ -69,20 +69,23 @@ This theme brings together causal identification, quasi-experimental design, med
 ### Selected Presentations
 
 - **Li, W.**, & Strickland, K. J. (2026). *Power analysis for difference-in-differences studies with staggered treatment adoption*. Modern Modeling Methods Conference.
+- Strickland, K. J., Hill, J., Lu, Y., & **Li, W.** (2026). *Estimating heterogeneous effects of the gifted and talented program using Bayesian additive regression trees*. Modern Modeling Methods Conference.
 - **Li, W.**, Strickland, K. J., Gao, X., & Huang, J. (2025). *Designing longitudinal quasi-experimental studies using staggered difference-in-differences: Estimator selection, software implementation, and sample size planning*. SREE Annual Meeting.
 - **Li, W.** (2025). *A Guide to Sample Size Planning in Staggered Difference-in-Differences Designs: Applications for STEM Education*. UF Education Policy Brown Bag.
 - **Li, W.**, Leite, W., & Quan, J. (2024). *Application of machine learning algorithms to detect treatment effect heterogeneity for three-level multisite experiments*. AERA Annual Meeting.
 - **Li, W.** (2024). *Using Machine Learning Methods to Detect Heterogeneous Treatment Effects for Multilevel Studies in Education*. UF Education Policy Brown Bag.
 
-## Education Data Science and Digital Learning
+## Education Data Science, AI, and Digital Learning Systems
 
-This theme uses digital learning, online program, assessment, and administrative data to generate interpretable evidence for education practice and policy.
+This focus area uses digital learning, online program, assessment, administrative, and AI-enabled data to generate interpretable evidence for education practice and policy.
 
 ### Selected Funded Projects
 
 - Bill & Melinda Gates Foundation, "Democratizing High-Quality Course Sequence Knowledge," Co-Principal Investigator, 2022-2024.
 - University of Florida Artificial Intelligence & Informatics Research Institute SEED Fund, "CRISIS: Counselor Response & Intervention Simulation with Intelligent Support," Project team, 2026-2027.
 - Florida Center for Cybersecurity, "Project HaHa: Low-Cost Hands-on Hardware Security Education," Co-Principal Investigator, 2022-2023.
+- University of Florida Lastinger Center for Learning Research Catalyst Award, "Automated Reading Reflection Question Generation: A New Technological Paradigm to Support Meaningful Book Sharing Initiatives," Co-Principal Investigator, 2022.
+- University of Alabama College of Continuing Studies, "Understanding Enrollment Patterns and Academic Outcomes in Alabama ACCESS," Co-Principal Investigator, 2020.
 
 ### Representative Papers
 
@@ -92,14 +95,13 @@ This theme uses digital learning, online program, assessment, and administrative
 
 ### Selected Presentations
 
-- Strickland, K. J., Hill, J., Lu, Y., & **Li, W.** (2026). *Estimating heterogeneous effects of the gifted and talented program using Bayesian additive regression trees*. Modern Modeling Methods Conference.
 - **Li, W.**, & Mann, B. (2019). *Analyses of Alabama ACCESS Mathematics Performance*. Alabama ACCESS retreat.
 - **Li, W.**, & Mann, B. (2020). *Effects of class size on K-12 online student mathematics achievement*. AERA Annual Meeting.
 - Israel, M., **Li, W.**, Fancsali, C., Bennett, A., Xu, Y., & Cobo, A. (2023). *Participation of students with disabilities in K-12 computer science education*. AERA Annual Meeting.
 
-## Evaluation, Cost-Effectiveness, and Intervention Evidence
+## Intervention Evaluation, Cost-Effectiveness, and Implementation Evidence
 
-This theme focuses on designing evaluations that connect program impacts with cost, implementation, scalability, and decision-making in education.
+This focus area designs evaluations that connect program impacts with cost, implementation, scalability, and decision-making in education.
 
 ### Selected Funded Projects
 

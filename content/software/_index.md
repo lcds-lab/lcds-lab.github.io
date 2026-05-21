@@ -3,7 +3,7 @@ title: "Software"
 description: "Statistical software and tools developed by LCDS Lab members and collaborators."
 ---
 
-The LCDS Lab develops and shares statistical software and tools for study design, power analysis, cost-effectiveness analysis, and longitudinal education research.
+The LCDS Lab develops and shares statistical software and tools for study design, power analysis, causal evaluation, cost-effectiveness analysis, and longitudinal education research.
 
 ## Available Software
 
@@ -13,7 +13,7 @@ The LCDS Lab develops and shares statistical software and tools for study design
 
 - **Citation:** **Li, W.**, Dong, N., Maynard, R. A., Spybrook, J., & Kelcey, B. (2023). *PowerUp!-CEA: A tool for calculating statistical power in multilevel randomized cost-effectiveness trials* (Version 1.2) [Software].
 - **Software link:** [causalevaluation.org/multilevel-cost-effectiveness-trials.html](https://www.causalevaluation.org/multilevel-cost-effectiveness-trials.html)
-- **Related theme:** [Evaluation, Cost-Effectiveness, and Intervention Evidence](/research/#evaluation-cost-effectiveness-and-intervention-evidence)
+- **Related theme:** [Intervention Evaluation, Cost-Effectiveness, and Implementation Evidence](/research/#intervention-evaluation-cost-effectiveness-and-implementation-evidence)
 
 ## In Development
 
