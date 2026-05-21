@@ -3,7 +3,7 @@ title: "Events"
 description: "Seminars, workshops, reading groups, and methods-focused events hosted or shared by the LCDS Lab."
 ---
 
-The LCDS Lab will use this page to share seminars, workshops, reading groups, and other events related to longitudinal design, causal evaluation, education data science, AI, and cost-effectiveness.
+The LCDS Lab uses this page to share seminars, workshops, reading groups, conference presentations, and methods-focused events related to longitudinal design, causal evaluation, education data science, AI, and cost-effectiveness.
 
 <div class="cards four">
   <article class="card">
@@ -23,9 +23,9 @@ The LCDS Lab will use this page to share seminars, workshops, reading groups, an
   </article>
 </div>
 
-## Upcoming Events
+## Current Status
 
-No upcoming events are listed yet. Please check back for updates.
+Upcoming events, workshops, and reading group meetings will be posted here when dates are confirmed. In the meantime, the event categories below describe the kinds of activities the lab plans to host or share.
 
 ## Event Topics
 

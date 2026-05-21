@@ -49,6 +49,6 @@ This project anchors the lab's focus on [Longitudinal Design, Power, and Optimal
 
 ## Software and Training Materials
 
-Software tools and training materials from the CAREER project will be added here as they become publicly available. Planned outputs include tools for power analysis and sample size planning in longitudinal studies, including R-based and interactive resources.
+Software tools and training materials from the CAREER project are being developed for public use. Planned outputs include tools for power analysis and sample size planning in longitudinal studies, including R-based and interactive resources.
 
 See also the lab's [software page](/software/).

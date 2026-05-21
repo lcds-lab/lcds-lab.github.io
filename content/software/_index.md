@@ -11,6 +11,9 @@ The LCDS Lab develops and shares statistical software and tools for study design
 
 **PowerUp!-CEA** is a tool for calculating statistical power in multilevel randomized cost-effectiveness trials.
 
+- **Status:** Available.
+- **Who should use it:** Researchers planning multilevel randomized cost-effectiveness trials in education, prevention science, social work, and related fields.
+- **What it helps answer:** How large a study needs to be to detect meaningful impacts and cost-effectiveness evidence under multilevel designs.
 - **Citation:** **Li, W.**, Dong, N., Maynard, R. A., Spybrook, J., & Kelcey, B. (2023). *PowerUp!-CEA: A tool for calculating statistical power in multilevel randomized cost-effectiveness trials* (Version 1.2) [Software].
 - **Software link:** [causalevaluation.org/multilevel-cost-effectiveness-trials.html](https://www.causalevaluation.org/multilevel-cost-effectiveness-trials.html)
 - **Related theme:** [Intervention Evaluation, Cost-Effectiveness, and Implementation Evidence](/research/#intervention-evaluation-cost-effectiveness-and-implementation-evidence)
@@ -21,4 +24,11 @@ The LCDS Lab develops and shares statistical software and tools for study design
 
 As part of the [NSF CAREER project on longitudinal studies in STEM education](/projects/nsf-career-longitudinal-studies/), the lab is developing tools, examples, documentation, and training materials for statistical power analysis and optimal sample size planning in longitudinal experimental and quasi-experimental studies.
 
-Planned resources include R-based and interactive materials for applied researchers designing longitudinal studies in STEM education and related fields.
+Planned resources include:
+
+- R-based functions for common longitudinal experimental and quasi-experimental designs.
+- Interactive examples for applied researchers designing longitudinal studies in STEM education and related fields.
+- Worked examples using realistic design parameters and repeated-measures structures.
+- Documentation and workshop materials for researchers who need study-planning guidance rather than only formulas.
+
+Development status and public links will be updated as tools are released.

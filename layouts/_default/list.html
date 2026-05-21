@@ -10,7 +10,7 @@
     <div class="list-grid">
       {{ range .Pages.ByDate.Reverse }}
         <a class="list-card" href="{{ .RelPermalink }}">
-          <span>{{ .Date.Format "January 2, 2006" }}</span>
+          {{ if not .Date.IsZero }}<span>{{ .Date.Format "January 2, 2006" }}</span>{{ end }}
           <strong>{{ .Title }}</strong>
           {{ with .Description }}<p>{{ . }}</p>{{ end }}
         </a>

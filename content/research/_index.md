@@ -5,6 +5,40 @@ description: "Research themes in longitudinal design, causal evaluation, educati
 
 The LCDS Lab develops and applies rigorous methods for studying education programs, policies, and learning systems over time. The four focus areas below organize our funded projects, representative papers, software, and presentations.
 
+<div class="table-wrap">
+  <table class="info-table">
+    <thead>
+      <tr>
+        <th>Focus area</th>
+        <th>Typical questions</th>
+        <th>Example outputs</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Longitudinal design and power</td>
+        <td>How many schools, classrooms, students, or repeated measures are needed to answer questions about change over time?</td>
+        <td>Power tools, design parameters, simulations, sample-size guidance</td>
+      </tr>
+      <tr>
+        <td>Causal evaluation and heterogeneous effects</td>
+        <td>Does a program work, for whom, when, and under what conditions?</td>
+        <td>Impact estimates, HTE analyses, staggered DID guidance, manuscripts</td>
+      </tr>
+      <tr>
+        <td>Education data science, AI, and digital systems</td>
+        <td>How can large-scale learning data and AI-enabled systems produce interpretable evidence?</td>
+        <td>Analytics, applied studies, partner reports, reproducible workflows</td>
+      </tr>
+      <tr>
+        <td>Cost-effectiveness and implementation evidence</td>
+        <td>What does an intervention cost, how feasible is it, and how do costs compare with estimated impacts?</td>
+        <td>Cost-effectiveness tools, implementation evidence, training materials</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <div class="cards four">
   <article class="card">
     <h2><a href="#longitudinal-design-power-and-optimal-study-planning">Longitudinal Design, Power, and Optimal Study Planning</a></h2>
@@ -27,6 +61,8 @@ The LCDS Lab develops and applies rigorous methods for studying education progra
 ## Longitudinal Design, Power, and Optimal Study Planning
 
 This focus area develops design and sample size planning methods for longitudinal experiments and quasi-experiments, especially when students, teachers, classrooms, schools, and sites create multilevel dependence and repeated measures over time.
+
+In plain language, this work helps researchers plan studies that are powerful enough to answer questions about learning and intervention effects over time under realistic budget, staffing, and data constraints.
 
 ### Selected Funded Projects
 
@@ -51,6 +87,8 @@ This focus area develops design and sample size planning methods for longitudina
 ## Causal Evaluation and Heterogeneous Treatment Effects
 
 This focus area brings together causal identification, quasi-experimental design, mediation and moderation, staggered difference-in-differences, and machine learning approaches for estimating heterogeneous treatment effects in education.
+
+In plain language, this work studies not only whether programs work, but also for whom, when, and under what conditions.
 
 ### Selected Funded Projects
 
@@ -79,6 +117,8 @@ This focus area brings together causal identification, quasi-experimental design
 
 This focus area uses digital learning, online program, assessment, administrative, and AI-enabled data to generate interpretable evidence for education practice and policy.
 
+In plain language, this work uses large-scale education data and AI-enabled learning systems to produce decision-relevant evidence rather than black-box prediction alone.
+
 ### Selected Funded Projects
 
 - Bill & Melinda Gates Foundation, "Democratizing High-Quality Course Sequence Knowledge," Co-Principal Investigator, 2022-2024.
@@ -102,6 +142,8 @@ This focus area uses digital learning, online program, assessment, administrativ
 ## Intervention Evaluation, Cost-Effectiveness, and Implementation Evidence
 
 This focus area designs evaluations that connect program impacts with cost, implementation, scalability, and decision-making in education.
+
+In plain language, this work connects impact estimates to cost, feasibility, implementation, and scale so education leaders and funders can make better resource-allocation decisions.
 
 ### Selected Funded Projects
 

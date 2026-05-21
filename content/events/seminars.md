@@ -3,6 +3,6 @@ title: "Seminars"
 description: "Research talks and invited presentations connected to the LCDS Lab."
 ---
 
-LCDS Lab seminars will feature research talks and invited presentations on longitudinal design, causal evaluation, education data science, AI, cost-effectiveness, and implementation evidence.
+LCDS Lab seminars feature research talks and invited presentations on longitudinal design, causal evaluation, education data science, AI, cost-effectiveness, and implementation evidence.
 
-Seminar details will be added here as events are scheduled.
+Future seminar posts may include speaker information, abstracts, slides, related papers, and links to project or software resources.
