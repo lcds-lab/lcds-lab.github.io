@@ -1,9 +1,28 @@
 ---
-title: "Research"
-description: "Research themes in longitudinal design, causal evaluation, education data science, AI, cost-effectiveness, and implementation evidence."
+title: "Research & Projects"
+description: "Methodological research and empirical education projects in longitudinal design, causal evaluation, education data science, AI, cost-effectiveness, and implementation evidence."
 ---
 
-The LCDS Lab develops and applies rigorous methods for studying education programs, policies, and learning systems over time. The four focus areas below organize our funded projects, representative papers, software, and presentations.
+The LCDS Lab works across two connected tracks: methodological research that develops statistical tools for stronger education studies, and empirical/applied projects that use those tools to answer education policy and practice questions.
+
+Our funded projects, papers, software, and presentations are organized around four research focus areas: longitudinal design and power, causal evaluation and heterogeneous treatment effects, education data science and AI, and intervention evaluation with cost-effectiveness and implementation evidence.
+
+## Two Connected Tracks
+
+<div class="cards two">
+  <article class="card">
+    <h2>Track 1: Methodological Research</h2>
+    <p>This track develops statistical methods, design guidance, software, and training resources for planning and analyzing rigorous education studies.</p>
+    <p><strong>Examples:</strong> NSF CAREER longitudinal power analysis, NSF multilevel randomized cost-effectiveness trials, Spencer mediation design, propensity-score sample size planning, causal heterogeneous effects, and PowerUp!-CEA.</p>
+  </article>
+  <article class="card">
+    <h2>Track 2: Empirical and Applied Evaluation Projects</h2>
+    <p>This track partners with education researchers, programs, funders, and data-system teams to study interventions, digital learning systems, implementation, cost, and scale.</p>
+    <p><strong>Examples:</strong> IES Targeted Reading Instruction, Florida Embedded Practices and Intervention, Tools for Families, Gates course-sequence knowledge, Project HaHa, CRISIS, Alabama ACCESS, and Lastinger Center projects.</p>
+  </article>
+</div>
+
+## Four Focus Areas
 
 <div class="table-wrap">
   <table class="info-table">
@@ -55,6 +74,51 @@ The LCDS Lab develops and applies rigorous methods for studying education progra
   <article class="card">
     <h2><a href="#intervention-evaluation-cost-effectiveness-and-implementation-evidence">Intervention Evaluation, Cost-Effectiveness, and Implementation Evidence</a></h2>
     <p>Connecting impacts with cost, implementation, scalability, and decision-making for education interventions and program evaluation.</p>
+  </article>
+</div>
+
+## Selected Funded Projects
+
+<div class="cards four">
+  <article class="card">
+    <h2><a href="/projects/nsf-career-longitudinal-studies/">NSF CAREER: Longitudinal Studies in STEM Education</a></h2>
+    <p class="meta">Methodological Research | NSF | 2024-2029 | Principal Investigator</p>
+    <p>Flagship project developing power analysis and optimal sample size planning methods, design parameter estimates, examples, software, and training resources for longitudinal studies in STEM education.</p>
+  </article>
+  <article class="card">
+    <h2>Multilevel Randomized Cost-Effectiveness Trials</h2>
+    <p class="meta">Methodological Research | NSF | 2020-2026 | Co-PI and Campus PI</p>
+    <p>Develops statistical frameworks and software tools for planning multilevel randomized cost-effectiveness trials in education and social programs.</p>
+  </article>
+  <article class="card">
+    <h2>Mediation Effects in Experimental Studies</h2>
+    <p class="meta">Methodological Research | Spencer Foundation | 2022-2023 | Principal Investigator</p>
+    <p>Improves design and power planning for randomized studies investigating mediation effects with individual-level mediators.</p>
+  </article>
+  <article class="card">
+    <h2>Longitudinal and Quasi-Experimental Study Planning</h2>
+    <p class="meta">Methodological Research | UF Lastinger Center and HDOSE | 2025-2026 | Principal Investigator</p>
+    <p>Builds planning guidance for longitudinal evaluations, propensity score-based quasi-experiments, and realistic design-parameter estimation using education data.</p>
+  </article>
+  <article class="card">
+    <h2>Scaling Targeted Reading Instruction</h2>
+    <p class="meta">Empirical and Applied Evaluation | IES | 2022-2025 | Co-Principal Investigator</p>
+    <p>Studies digital implementation and scaling of an effective reading intervention, with a focus on cost data collection and analysis.</p>
+  </article>
+  <article class="card">
+    <h2>Early Learning Intervention Evaluations</h2>
+    <p class="meta">Empirical and Applied Evaluation | IES | 2020-2025 | Investigator</p>
+    <p>Supports evaluation and analysis for Florida Embedded Practices and Intervention with Caregivers and Tools for Families.</p>
+  </article>
+  <article class="card">
+    <h2>Education Data Science and Digital Learning</h2>
+    <p class="meta">Empirical and Applied Evaluation | Gates Foundation, UF, and Alabama | 2020-2027</p>
+    <p>Includes course-sequence knowledge, CRISIS counselor response simulation, Project HaHa, reading question generation, and Alabama ACCESS online learning studies.</p>
+  </article>
+  <article class="card">
+    <h2>Machine Learning for Causal Heterogeneous Effects</h2>
+    <p class="meta">Bridge Project | UF HDOSE | 2022-2023 | Principal Investigator</p>
+    <p>Compares machine learning approaches for detecting heterogeneous treatment effects in multilevel randomized trials and applied education settings.</p>
   </article>
 </div>
 
