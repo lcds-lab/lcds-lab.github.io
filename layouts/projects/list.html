@@ -1,0 +1,40 @@
+{{ define "main" }}
+<section class="page-hero compact">
+  <p class="eyebrow">Projects</p>
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}
+</section>
+<article class="page-body">
+  {{ .Content }}
+
+  {{ $external := where .Pages "Params.grant_type" "External Grant" }}
+  {{ if $external }}
+    <h2 id="external-grants">External Grants</h2>
+    <div class="cards four">
+      {{ range $external.ByWeight }}
+        <article class="card">
+          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          <p class="meta">{{ .Params.funder }} | {{ .Params.period }} | {{ .Params.role }}</p>
+          {{ with .Description }}<p>{{ . }}</p>{{ end }}
+          {{ with .Params.amount }}<p><strong>Amount:</strong> {{ . }}</p>{{ end }}
+        </article>
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{ $internal := where .Pages "Params.grant_type" "Internal Grant" }}
+  {{ if $internal }}
+    <h2 id="internal-grants">Internal Grants</h2>
+    <div class="cards four">
+      {{ range $internal.ByWeight }}
+        <article class="card">
+          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+          <p class="meta">{{ .Params.funder }} | {{ .Params.period }} | {{ .Params.role }}</p>
+          {{ with .Description }}<p>{{ . }}</p>{{ end }}
+          {{ with .Params.amount }}<p><strong>Amount:</strong> {{ . }}</p>{{ end }}
+        </article>
+      {{ end }}
+    </div>
+  {{ end }}
+</article>
+{{ end }}

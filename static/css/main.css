@@ -374,6 +374,13 @@ h3 {
   text-wrap: balance;
 }
 
+.page-hero.compact.project-hero h1 {
+  max-width: min(100%, 980px);
+  font-size: clamp(2rem, 3vw, 2.85rem);
+  letter-spacing: -0.035em;
+  text-wrap: balance;
+}
+
 .page-hero.compact.news-index-hero h1 {
   max-width: 18ch;
 }
@@ -392,6 +399,19 @@ h3 {
 }
 
 .page-body.news-body > :first-child {
+  margin-top: 0;
+}
+
+.page-body.project-body {
+  max-width: none;
+  padding-top: 0;
+}
+
+.page-body.project-body > * {
+  max-width: 860px;
+}
+
+.page-body.project-body > :first-child {
   margin-top: 0;
 }
 

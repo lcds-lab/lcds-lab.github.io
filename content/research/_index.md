@@ -43,50 +43,24 @@ Our funded projects, papers, software, and presentations are organized around fo
   </article>
 </div>
 
-## Selected Funded Projects
+## Funded Projects
 
-<div class="cards four">
+The lab's funded work includes all external and internal grants listed in Wei Li's current CV. Each funded project now has a short detail page with the funding source, role, project period, award amount, and project focus.
+
+<div class="cards two">
   <article class="card">
-    <h2><a href="/projects/nsf-career-longitudinal-studies/">NSF CAREER: Longitudinal Studies in STEM Education</a></h2>
-    <p class="meta">Methodological Research | NSF | 2024-2029 | Principal Investigator</p>
-    <p>Flagship project developing power analysis and optimal sample size planning methods, design parameter estimates, examples, software, and training resources for longitudinal studies in STEM education.</p>
+    <h2><a href="/projects/#external-grants">External Grants</a></h2>
+    <p class="meta">n = 10 | total = $9.65 million</p>
+    <p>External grants include NSF, IES, Spencer Foundation, Gates Foundation, Florida Center for Cybersecurity, and related funded work.</p>
   </article>
   <article class="card">
-    <h2>Multilevel Randomized Cost-Effectiveness Trials</h2>
-    <p class="meta">Methodological Research | NSF | 2020-2026 | Co-PI and Campus PI</p>
-    <p>Develops statistical frameworks and software tools for planning multilevel randomized cost-effectiveness trials in education and social programs.</p>
-  </article>
-  <article class="card">
-    <h2>Mediation Effects in Experimental Studies</h2>
-    <p class="meta">Methodological Research | Spencer Foundation | 2022-2023 | Principal Investigator</p>
-    <p>Improves design and power planning for randomized studies investigating mediation effects with individual-level mediators.</p>
-  </article>
-  <article class="card">
-    <h2>Longitudinal and Quasi-Experimental Study Planning</h2>
-    <p class="meta">Methodological Research | UF Lastinger Center and HDOSE | 2025-2026 | Principal Investigator</p>
-    <p>Builds planning guidance for longitudinal evaluations, propensity score-based quasi-experiments, and realistic design-parameter estimation using education data.</p>
-  </article>
-  <article class="card">
-    <h2>Scaling Targeted Reading Instruction</h2>
-    <p class="meta">Empirical and Applied Evaluation | IES | 2022-2025 | Co-Principal Investigator</p>
-    <p>Studies digital implementation and scaling of an effective reading intervention, with a focus on cost data collection and analysis.</p>
-  </article>
-  <article class="card">
-    <h2>Early Learning Intervention Evaluations</h2>
-    <p class="meta">Empirical and Applied Evaluation | IES | 2020-2025 | Investigator</p>
-    <p>Supports evaluation and analysis for Florida Embedded Practices and Intervention with Caregivers and Tools for Families.</p>
-  </article>
-  <article class="card">
-    <h2>Education Data Science and Digital Learning</h2>
-    <p class="meta">Empirical and Applied Evaluation | Gates Foundation, UF, and Alabama | 2020-2027</p>
-    <p>Includes course-sequence knowledge, CRISIS counselor response simulation, Project HaHa, reading question generation, and Alabama ACCESS online learning studies.</p>
-  </article>
-  <article class="card">
-    <h2>Machine Learning for Causal Heterogeneous Effects</h2>
-    <p class="meta">Bridge Project | UF HDOSE | 2022-2023 | Principal Investigator</p>
-    <p>Compares machine learning approaches for detecting heterogeneous treatment effects in multilevel randomized trials and applied education settings.</p>
+    <h2><a href="/projects/#internal-grants">Internal Grants</a></h2>
+    <p class="meta">n = 8 | total = $212,256</p>
+    <p>Internal grants include UF HDOSE Strategic Reinvestment, Lastinger Center Research Catalyst, AIIRI SEED, University of Alabama, and related funded work.</p>
   </article>
 </div>
+
+<p><a class="button primary" href="/projects/">View all funded project pages</a></p>
 
 ## Longitudinal Design, Power, and Optimal Study Planning
 

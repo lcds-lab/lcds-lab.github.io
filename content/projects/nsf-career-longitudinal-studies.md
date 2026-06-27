@@ -2,6 +2,13 @@
 title: "NSF CAREER: Longitudinal Studies in STEM Education"
 date: 2024-08-01
 description: "Statistical power analysis and optimal sample size planning for longitudinal studies in STEM education."
+grant_type: "External Grant"
+track: "Methodological Research"
+funder: "National Science Foundation"
+role: "Principal Investigator"
+period: "2024-2029"
+amount: "$1,248,938"
+weight: 101
 ---
 
 The NSF CAREER project, **Statistical Power Analysis and Optimal Sample Size Planning for Longitudinal Studies in STEM Education**, develops statistical frameworks, software tools, design parameter estimates, examples, training materials, and workshops to help researchers plan longitudinal studies in STEM education.
@@ -14,6 +21,7 @@ This project anchors the lab's focus on [Longitudinal Design, Power, and Optimal
 
 - **Funding agency:** National Science Foundation
 - **Program:** Faculty Early Career Development Program, EDU Core Research
+- **Full project title:** CAREER: Statistical Power Analysis and Optimal Sample Size Planning for Longitudinal Studies in STEM Education
 - **Award ID:** DRL-2339353
 - **Principal Investigator:** Wei Li
 - **Institution:** University of Florida
