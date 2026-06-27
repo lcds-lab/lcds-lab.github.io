@@ -1,6 +1,6 @@
 ---
 title: "Gates Foundation Summer Project with Katherine Strickland Funded"
-date: 2026-06-01
+date: 2026-04-10
 description: "Wei Li and Katherine J. Strickland received Gates Foundation support for an applied study of Math Matrix micro-credentials."
 ---
 

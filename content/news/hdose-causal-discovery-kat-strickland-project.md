@@ -1,6 +1,6 @@
 ---
 title: "HDOSE Research-Methods Project with Katherine Strickland Funded"
-date: 2026-06-27
+date: 2026-05-11
 description: "Wei Li and Katherine J. Strickland received internal UF HDOSE Strategic Reinvestment funding for a research-methods project on causal discovery and high-dimensional treatment methods."
 ---
 
