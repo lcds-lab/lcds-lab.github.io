@@ -531,6 +531,17 @@ h3 {
   font-weight: 800;
 }
 
+.person-card .person-photo {
+  display: block;
+  width: 5.25rem;
+  height: 5.25rem;
+  margin-bottom: 1rem;
+  object-fit: cover;
+  border: 3px solid rgba(250, 70, 22, 0.22);
+  border-radius: 1.35rem;
+  box-shadow: 0 12px 30px rgba(0, 33, 165, 0.12);
+}
+
 .site-footer {
   display: flex;
   justify-content: space-between;
