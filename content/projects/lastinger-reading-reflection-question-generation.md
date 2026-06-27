@@ -13,7 +13,7 @@ weight: 207
 
 This Lastinger Center Research Catalyst project, **Automated Reading Reflection Question Generation: A New Technological Paradigm to Support Meaningful Book Sharing Initiatives**, explored technology-supported reading reflection.
 
-The project is part of the lab's [Education Data Science, AI, and Digital Learning Systems](/research/#education-data-science-ai-and-digital-learning-systems) focus area.
+Within the lab, this project connects educational technology, reading engagement, and evaluation of digital supports for learning.
 
 ## Project Information
 
@@ -28,3 +28,14 @@ The project is part of the lab's [Education Data Science, AI, and Digital Learni
 - Explore automated reading reflection question generation.
 - Support meaningful book sharing initiatives.
 - Connect educational technology with evaluation and learning evidence.
+
+## Related Outputs
+
+- Project-specific publications and presentations will be added as they become publicly available.
+- This project is related to the lab's broader work on interpretable evidence from digital learning and technology-supported education systems.
+
+## Related Projects
+
+- [CRISIS: Counselor Response Simulation](/projects/aiiri-crisis-counselor-simulation/)
+- [AIMS EduData Initiative: Math Matrix Micro-Credentials](/projects/gates-aims-math-matrix-microcredentials/)
+- [Alabama ACCESS Enrollment and Academic Outcomes](/projects/alabama-access-enrollment-outcomes/)

@@ -13,7 +13,7 @@ weight: 103
 
 This Spencer Foundation Small Grant, **Optimal Design of Experimental Studies Investigating Mediation Effects with Individual-Level Mediators**, supported methods for designing randomized studies that investigate how and why interventions produce effects.
 
-The project is part of the lab's [Causal Evaluation and Heterogeneous Treatment Effects](/research/#causal-evaluation-and-heterogeneous-treatment-effects) focus area.
+Within the lab, this project supports design planning for mechanism-focused randomized experiments. It is closely connected to broader work on causal evaluation, mediation, moderation, and power analysis for education studies.
 
 ## Project Information
 
@@ -28,6 +28,17 @@ The project is part of the lab's [Causal Evaluation and Heterogeneous Treatment 
 - Improve power and design planning for mediation analyses in randomized experiments.
 - Study designs with individual-level mediators.
 - Provide guidance for researchers who want to test mechanisms of intervention effects.
+
+## Related Publications
+
+- Shen, Z., **Li, W.**, & Leite, W. (2024). Statistical power and optimal design for randomized controlled trials investigating mediation effects. *Psychological Methods*. [doi:10.1037/met0000698](https://doi.org/10.1037/met0000698)
+- Konstantopoulos, S., **Li, W.**, Miller, S., & van der Ploeg, A. (2019). Using quantile regression to estimate intervention effects beyond the mean. *Educational and Psychological Measurement, 79*(5), 883-910. [doi:10.1177/0013164419837321](https://doi.org/10.1177/0013164419837321)
+
+## Related Projects
+
+- [Machine Learning for Causal Heterogeneous Effects](/projects/hdose-causal-heterogeneous-effects-ml/)
+- [Causal Discovery for Online Learning Platforms](/projects/hdose-causal-discovery-literacy-matrix/)
+- [NSF CAREER: Longitudinal Studies in STEM Education](/projects/nsf-career-longitudinal-studies/)
 
 ## Note
 

@@ -16,7 +16,7 @@ The LCDS Lab develops and shares statistical software and tools for study design
 - **What it helps answer:** How large a study needs to be to detect meaningful impacts and cost-effectiveness evidence under multilevel designs.
 - **Citation:** **Li, W.**, Dong, N., Maynard, R. A., Spybrook, J., & Kelcey, B. (2023). *PowerUp!-CEA: A tool for calculating statistical power in multilevel randomized cost-effectiveness trials* (Version 1.2) [Software].
 - **Software link:** [causalevaluation.org/multilevel-cost-effectiveness-trials.html](https://www.causalevaluation.org/multilevel-cost-effectiveness-trials.html)
-- **Related theme:** [Intervention Evaluation, Cost-Effectiveness, and Implementation Evidence](/research/#intervention-evaluation-cost-effectiveness-and-implementation-evidence)
+- **Related project:** [Multilevel Randomized Cost-Effectiveness Trials](/projects/multilevel-randomized-cost-effectiveness-trials/)
 
 ## In Development
 

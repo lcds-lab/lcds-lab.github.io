@@ -13,7 +13,7 @@ weight: 208
 
 This Bama by Distance Faculty Research Fellow project, **Understanding Enrollment Patterns and Academic Outcomes in Alabama ACCESS**, studied patterns in K-12 online course participation and outcomes.
 
-The project is part of the lab's [Education Data Science, AI, and Digital Learning Systems](/research/#education-data-science-ai-and-digital-learning-systems) focus area.
+Within the lab, this project is an applied education data science project focused on online learning enrollment and academic outcomes in Alabama ACCESS.
 
 ## Project Information
 
@@ -28,3 +28,18 @@ The project is part of the lab's [Education Data Science, AI, and Digital Learni
 - Study enrollment patterns in Alabama ACCESS.
 - Analyze academic outcomes in online learning contexts.
 - Generate evidence for K-12 online learning policy and practice.
+
+## Related Publications
+
+- Mann, B., **Li, W.**, & Besnoy, K. (2021). Digital divides: K-12 student profiles and online learning. *Education Policy Analysis Archives, 29*. [doi:10.14507/epaa.29.6351](https://doi.org/10.14507/epaa.29.6351)
+
+## Related Presentations
+
+- **Li, W.**, & Mann, B. (2019). *Analyses of Alabama ACCESS Mathematics Performance*. Alabama ACCESS retreat.
+- **Li, W.**, & Mann, B. (2020). *Effects of class size on K-12 online student mathematics achievement*. AERA Annual Meeting.
+
+## Related Projects
+
+- [CRISIS: Counselor Response Simulation](/projects/aiiri-crisis-counselor-simulation/)
+- [Automated Reading Reflection Question Generation](/projects/lastinger-reading-reflection-question-generation/)
+- [AIMS EduData Initiative: Math Matrix Micro-Credentials](/projects/gates-aims-math-matrix-microcredentials/)

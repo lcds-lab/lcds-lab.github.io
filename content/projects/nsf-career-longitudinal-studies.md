@@ -15,7 +15,7 @@ The NSF CAREER project, **Statistical Power Analysis and Optimal Sample Size Pla
 
 Longitudinal studies are central to education research because many interventions unfold over time. Researchers may care about effects at a specific time point, average effects across time, or changes in effects over time. This project addresses a practical design challenge: how to plan longitudinal experimental and quasi-experimental studies with adequate statistical power under realistic design and budget constraints.
 
-This project anchors the lab's focus on [Longitudinal Design, Power, and Optimal Study Planning](/research/#longitudinal-design-power-and-optimal-study-planning).
+Within the lab, this is the central project for longitudinal design, power analysis, and optimal study planning. It also connects to applied Lastinger Center projects that provide realistic longitudinal education data for design-parameter estimation and methods illustration.
 
 ## Project Information
 
@@ -54,6 +54,12 @@ This project anchors the lab's focus on [Longitudinal Design, Power, and Optimal
 - **Li, W.**, Konstantopoulos, S., & Shen, Z. (2024). *Design and analysis of longitudinal multisite randomized trials: Estimation, statistical power, and optimal sample size*. SREE Annual Meeting.
 - **Li, W.**, & Kotsiopoulos, S. (2024). *Power analysis for main and moderator effects in multisite longitudinal experiments with site fixed effects*. AERA Annual Meeting.
 - **Li, W.** (2022). *Design parameters for planning longitudinal experiments in education*. SREE Annual Meeting.
+
+## Related Projects
+
+- [Enhancing Longitudinal Program Evaluations](/projects/lastinger-longitudinal-program-evaluations/)
+- [Propensity Score-Based Quasi-Experimental Study Planning](/projects/hdose-propensity-score-power/)
+- [Causal Discovery for Online Learning Platforms](/projects/hdose-causal-discovery-literacy-matrix/)
 
 ## Software and Training Materials
 

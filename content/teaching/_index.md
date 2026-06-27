@@ -28,7 +28,7 @@ The lab trains students and collaborators to connect statistical methods with re
 
 - **Foundation:** Build core skills in quantitative methods, programming, research design, and education evaluation.
 - **Project involvement:** Join funded projects through data preparation, simulation studies, literature reviews, software examples, or applied analyses.
-- **Scholarly leadership:** Develop conference presentations, manuscripts, software documentation, or dissertation work connected to the lab's research focus areas.
+- **Scholarly leadership:** Develop conference presentations, manuscripts, software documentation, or dissertation work connected to the lab's research projects.
 
 ## Recent Courses
 

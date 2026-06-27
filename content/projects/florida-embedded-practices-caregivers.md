@@ -13,7 +13,7 @@ weight: 109
 
 This IES project, **Initial Efficacy Trial of Florida Embedded Practices and Intervention with Caregivers**, evaluates an early learning intervention delivered with caregivers.
 
-The project is part of the lab's [Intervention Evaluation, Cost-Effectiveness, and Implementation Evidence](/research/#intervention-evaluation-cost-effectiveness-and-implementation-evidence) focus area.
+Within the lab, this project is part of the applied intervention-evaluation portfolio, with emphasis on rigorous evidence for caregiver-supported early learning intervention.
 
 ## Project Information
 
@@ -29,3 +29,13 @@ The project is part of the lab's [Intervention Evaluation, Cost-Effectiveness, a
 - Evaluate the efficacy of Florida Embedded Practices and Intervention with Caregivers.
 - Support quantitative analysis for early learning intervention research.
 - Generate evidence about intervention effects in caregiver-supported early learning contexts.
+
+## Related Outputs
+
+- Project-specific publications and reports are produced through the full project team; lab-related public outputs will be added here as citations become available.
+
+## Related Projects
+
+- [Tools for Families](/projects/tools-for-families/)
+- [Scaling Targeted Reading Instruction](/projects/scaling-targeted-reading-instruction/)
+- [Multilevel Randomized Cost-Effectiveness Trials](/projects/multilevel-randomized-cost-effectiveness-trials/)

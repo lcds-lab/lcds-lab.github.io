@@ -35,7 +35,7 @@ Students interested in quantitative methods, longitudinal designs, causal evalua
 Useful inquiry emails usually include:
 
 - Your current program or academic background.
-- The research focus areas or projects that interest you.
+- The research projects or methods areas that interest you.
 - Any experience with quantitative methods, programming, education data, or applied evaluation.
 - A brief note on what you hope to learn through doctoral research.
 

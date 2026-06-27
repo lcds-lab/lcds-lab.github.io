@@ -13,7 +13,7 @@ weight: 105
 
 This IES project, **Scaling Targeted Reading Instruction (TRI) to Serve Students Impacted by COVID-19: Digital Implementation of an Effective Intervention**, studies digital implementation and scaling of an evidence-based reading intervention.
 
-The project is part of the lab's [Intervention Evaluation, Cost-Effectiveness, and Implementation Evidence](/research/#intervention-evaluation-cost-effectiveness-and-implementation-evidence) focus area.
+Within the lab, this project connects intervention evaluation with cost, implementation, and scaling evidence for digital delivery of an evidence-based reading intervention.
 
 ## Project Information
 
@@ -29,3 +29,14 @@ The project is part of the lab's [Intervention Evaluation, Cost-Effectiveness, a
 - Study digital implementation of Targeted Reading Instruction.
 - Support cost data collection and analysis.
 - Generate evidence about implementation, scaling, and resource needs for reading intervention delivery.
+
+## Related Publications and Software
+
+- **Li, W.**, Dong, N., Maynard, R., Kelcey, B., Spybrook, J., & Xu, Y. (2025). Sample size planning in the design of two-level randomized cost-effectiveness trials. *Research on Social Work Practice, 35*(3), 307-320. [doi:10.1177/10497315241281501](https://doi.org/10.1177/10497315241281501)
+- **Li, W.**, Dong, N., Maynard, R. A., Spybrook, J., & Kelcey, B. (2023). *PowerUp!-CEA: A tool for calculating statistical power in multilevel randomized cost-effectiveness trials* (Version 1.2). [Software](/software/).
+
+## Related Projects
+
+- [Multilevel Randomized Cost-Effectiveness Trials](/projects/multilevel-randomized-cost-effectiveness-trials/)
+- [Florida Embedded Practices and Intervention with Caregivers](/projects/florida-embedded-practices-caregivers/)
+- [Tools for Families](/projects/tools-for-families/)

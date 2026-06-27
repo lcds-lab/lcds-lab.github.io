@@ -13,7 +13,7 @@ weight: 110
 
 This IES project, **Development and Validation of Tools for Families (TFF): An Intervention to Promote Family Engagement in Embedded Instruction in Early Learning**, developed and validated tools to support family engagement.
 
-The project is part of the lab's [Intervention Evaluation, Cost-Effectiveness, and Implementation Evidence](/research/#intervention-evaluation-cost-effectiveness-and-implementation-evidence) focus area.
+Within the lab, this project is part of the applied intervention-evaluation portfolio focused on family engagement, embedded instruction, and early learning supports.
 
 ## Project Information
 
@@ -29,6 +29,16 @@ The project is part of the lab's [Intervention Evaluation, Cost-Effectiveness, a
 - Develop and validate Tools for Families.
 - Promote family engagement in embedded instruction in early learning.
 - Support data analysis for intervention development and validation.
+
+## Related Outputs
+
+- Project-specific publications and reports are produced through the full project team; lab-related public outputs will be added here as citations become available.
+
+## Related Projects
+
+- [Florida Embedded Practices and Intervention with Caregivers](/projects/florida-embedded-practices-caregivers/)
+- [Scaling Targeted Reading Instruction](/projects/scaling-targeted-reading-instruction/)
+- [Multilevel Randomized Cost-Effectiveness Trials](/projects/multilevel-randomized-cost-effectiveness-trials/)
 
 ## Note
 
