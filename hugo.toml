@@ -1,6 +1,7 @@
 baseURL = 'https://lcds-lab.github.io/'
 locale = 'en-us'
 title = 'Longitudinal Causal Data Science Lab'
+buildFuture = true
 
 [params]
   description = 'The Longitudinal Causal Data Science Lab at the University of Florida advances longitudinal study design, causal evaluation, education data science, AI, and cost-effectiveness methods for education decisions.'
