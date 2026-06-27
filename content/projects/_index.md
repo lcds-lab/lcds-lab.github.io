@@ -1,9 +1,9 @@
 ---
 title: "Project Pages"
-description: "Detailed project pages linked from the LCDS Lab Research & Projects page."
+description: "Detailed project pages linked from the LCDS Lab research page."
 ---
 
-Most funded project summaries are now integrated into the [Research & Projects](/research/) page so visitors can see the lab's methodological and empirical/applied work in one place.
+Most funded project summaries are now integrated into the [Research](/research/) page so visitors can see the lab's methodological and empirical/applied work in one place.
 
 Detailed project pages remain available for larger initiatives that need their own space.
 
@@ -15,7 +15,7 @@ Detailed project pages remain available for larger initiatives that need their o
   </article>
   <article class="card">
     <h2><a href="/research/#selected-funded-projects">View All Selected Funded Projects</a></h2>
-    <p class="meta">Research & Projects</p>
+    <p class="meta">Research</p>
     <p>See the lab's funded work organized across methodological research and empirical/applied evaluation tracks.</p>
   </article>
 </div>

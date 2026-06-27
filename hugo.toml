@@ -32,7 +32,7 @@ title = 'Longitudinal Causal Data Science Lab'
   weight = 30
 
 [[menu.main]]
-  name = 'Research & Projects'
+  name = 'Research'
   url = '/research/'
   weight = 40
 

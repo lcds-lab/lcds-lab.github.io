@@ -1,5 +1,5 @@
 ---
-title: "Research & Projects"
+title: "Research"
 description: "Methodological research and empirical education projects in longitudinal design, causal evaluation, education data science, AI, cost-effectiveness, and implementation evidence."
 ---
 
