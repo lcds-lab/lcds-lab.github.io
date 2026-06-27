@@ -7,6 +7,6 @@ The LCDS Lab's funded work spans methodological research and empirical/applied e
 
 ## Summary
 
-- External grants: **n = 9; total = $9.36 million**.
+- External grants: **n = 8; total = $8.85 million**.
 - Internal grants: **n = 8; total = $212,256**.
 - Project tracks: methodological research; empirical and applied evaluation in education.

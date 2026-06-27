@@ -18,7 +18,7 @@ Our funded projects, papers, software, and presentations are organized around fo
   <article class="card">
     <h2>Track 2: Empirical and Applied Evaluation Projects</h2>
     <p>This track partners with education researchers, programs, funders, and data-system teams to study interventions, digital learning systems, implementation, cost, and scale.</p>
-    <p><strong>Examples:</strong> IES Targeted Reading Instruction, Florida Embedded Practices and Intervention, Tools for Families, Gates course-sequence knowledge, CRISIS, Alabama ACCESS, and Lastinger Center projects.</p>
+    <p><strong>Examples:</strong> IES Targeted Reading Instruction, Florida Embedded Practices and Intervention, Tools for Families, CRISIS, Alabama ACCESS, and Lastinger Center projects.</p>
   </article>
 </div>
 
@@ -110,7 +110,6 @@ In plain language, this work uses large-scale education data and AI-enabled lear
 
 ### Selected Funded Projects
 
-- Bill & Melinda Gates Foundation, "Democratizing High-Quality Course Sequence Knowledge," Co-Principal Investigator, 2022-2024.
 - University of Florida Artificial Intelligence & Informatics Research Institute SEED Fund, "CRISIS: Counselor Response & Intervention Simulation with Intelligent Support," Project team, 2026-2027.
 - University of Florida Lastinger Center for Learning Research Catalyst Award, "Automated Reading Reflection Question Generation: A New Technological Paradigm to Support Meaningful Book Sharing Initiatives," Co-Principal Investigator, 2022.
 - University of Alabama College of Continuing Studies, "Understanding Enrollment Patterns and Academic Outcomes in Alabama ACCESS," Co-Principal Investigator, 2020.
