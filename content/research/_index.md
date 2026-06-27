@@ -45,11 +45,6 @@ Our funded projects, papers, software, and presentations are organized around fo
 
 ## Funded Projects
 
-The lab's funded work includes all external and internal grants listed in Wei Li's current CV. Each funded project has a text box below with a short summary and a link to its dedicated project webpage.
-
-**External grants:** n = 10; total = $9.65 million.  
-**Internal grants:** n = 8; total = $212,256.
-
 {{< funded-project-cards >}}
 
 ## Longitudinal Design, Power, and Optimal Study Planning
