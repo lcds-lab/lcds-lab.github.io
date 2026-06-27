@@ -1,0 +1,39 @@
+{{ $projects := where site.RegularPages "Section" "projects" }}
+{{ $external := where $projects "Params.grant_type" "External Grant" }}
+{{ $internal := where $projects "Params.grant_type" "Internal Grant" }}
+
+{{ if $external }}
+  <h3 id="external-funded-projects">External Grants</h3>
+  <div class="cards four project-card-grid">
+    {{ range $external.ByWeight }}
+      <article class="card project-summary-card">
+        <p class="meta">{{ .Params.grant_type }} | {{ .Params.track }}</p>
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <p class="project-card-detail"><strong>Funder:</strong> {{ .Params.funder }}</p>
+        <p class="project-card-detail"><strong>Period:</strong> {{ .Params.period }}</p>
+        <p class="project-card-detail"><strong>Role:</strong> {{ .Params.role }}</p>
+        {{ with .Params.amount }}<p class="project-card-detail"><strong>Amount:</strong> {{ . }}</p>{{ end }}
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+        <p class="project-card-actions"><a class="button secondary" href="{{ .RelPermalink }}">View project page</a></p>
+      </article>
+    {{ end }}
+  </div>
+{{ end }}
+
+{{ if $internal }}
+  <h3 id="internal-funded-projects">Internal Grants</h3>
+  <div class="cards four project-card-grid">
+    {{ range $internal.ByWeight }}
+      <article class="card project-summary-card">
+        <p class="meta">{{ .Params.grant_type }} | {{ .Params.track }}</p>
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <p class="project-card-detail"><strong>Funder:</strong> {{ .Params.funder }}</p>
+        <p class="project-card-detail"><strong>Period:</strong> {{ .Params.period }}</p>
+        <p class="project-card-detail"><strong>Role:</strong> {{ .Params.role }}</p>
+        {{ with .Params.amount }}<p class="project-card-detail"><strong>Amount:</strong> {{ . }}</p>{{ end }}
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+        <p class="project-card-actions"><a class="button secondary" href="{{ .RelPermalink }}">View project page</a></p>
+      </article>
+    {{ end }}
+  </div>
+{{ end }}

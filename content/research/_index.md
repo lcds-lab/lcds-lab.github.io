@@ -45,22 +45,12 @@ Our funded projects, papers, software, and presentations are organized around fo
 
 ## Funded Projects
 
-The lab's funded work includes all external and internal grants listed in Wei Li's current CV. Each funded project now has a short detail page with the funding source, role, project period, award amount, and project focus.
+The lab's funded work includes all external and internal grants listed in Wei Li's current CV. Each funded project has a text box below with a short summary and a link to its dedicated project webpage.
 
-<div class="cards two">
-  <article class="card">
-    <h2><a href="/projects/#external-grants">External Grants</a></h2>
-    <p class="meta">n = 10 | total = $9.65 million</p>
-    <p>External grants include NSF, IES, Spencer Foundation, Gates Foundation, Florida Center for Cybersecurity, and related funded work.</p>
-  </article>
-  <article class="card">
-    <h2><a href="/projects/#internal-grants">Internal Grants</a></h2>
-    <p class="meta">n = 8 | total = $212,256</p>
-    <p>Internal grants include UF HDOSE Strategic Reinvestment, Lastinger Center Research Catalyst, AIIRI SEED, University of Alabama, and related funded work.</p>
-  </article>
-</div>
+**External grants:** n = 10; total = $9.65 million.  
+**Internal grants:** n = 8; total = $212,256.
 
-<p><a class="button primary" href="/projects/">View all funded project pages</a></p>
+{{< funded-project-cards >}}
 
 ## Longitudinal Design, Power, and Optimal Study Planning
 

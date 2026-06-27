@@ -328,6 +328,31 @@ h3 {
   color: var(--muted);
 }
 
+.project-card-grid {
+  margin: 1rem 0 2.25rem;
+}
+
+.project-summary-card {
+  display: flex;
+  min-height: 100%;
+  flex-direction: column;
+}
+
+.project-summary-card p {
+  margin-top: 0;
+}
+
+.project-summary-card .project-card-detail {
+  margin-bottom: 0.25rem;
+  color: #33405a;
+}
+
+.project-summary-card .project-card-actions {
+  margin-top: auto;
+  margin-bottom: 0;
+  padding-top: 0.85rem;
+}
+
 .highlight-band {
   display: grid;
   grid-template-columns: 0.85fr 1.15fr;
