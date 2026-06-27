@@ -8,6 +8,7 @@ description: "The people, students, and collaborators connected to the LCDS Lab.
     <div class="avatar">WL</div>
     <h2>Wei Li</h2>
     <p><strong>Lab Director</strong><br>Associate Professor, Research and Evaluation Methodology<br>University of Florida College of Education</p>
+    <p><a href="https://sites.google.com/view/weiliedu/home">Personal website</a> · <a href="https://education.ufl.edu/faculty/li-wei/">UF faculty profile</a></p>
     <p>Wei Li's work focuses on longitudinal design, statistical power analysis, causal evaluation, heterogeneous treatment effects, multilevel modeling, cost-effectiveness analysis, and education data science.</p>
   </article>
   <article class="person-card">
