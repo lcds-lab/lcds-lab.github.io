@@ -24,40 +24,6 @@ Our funded projects, papers, software, and presentations are organized around fo
 
 ## Four Focus Areas
 
-<div class="table-wrap">
-  <table class="info-table">
-    <thead>
-      <tr>
-        <th>Focus area</th>
-        <th>Typical questions</th>
-        <th>Example outputs</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Longitudinal design and power</td>
-        <td>How many schools, classrooms, students, or repeated measures are needed to answer questions about change over time?</td>
-        <td>Power tools, design parameters, simulations, sample-size guidance</td>
-      </tr>
-      <tr>
-        <td>Causal evaluation and heterogeneous effects</td>
-        <td>Does a program work, for whom, when, and under what conditions?</td>
-        <td>Impact estimates, HTE analyses, staggered DID guidance, manuscripts</td>
-      </tr>
-      <tr>
-        <td>Education data science, AI, and digital systems</td>
-        <td>How can large-scale learning data and AI-enabled systems produce interpretable evidence?</td>
-        <td>Analytics, applied studies, partner reports, reproducible workflows</td>
-      </tr>
-      <tr>
-        <td>Cost-effectiveness and implementation evidence</td>
-        <td>What does an intervention cost, how feasible is it, and how do costs compare with estimated impacts?</td>
-        <td>Cost-effectiveness tools, implementation evidence, training materials</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
 <div class="cards four">
   <article class="card">
     <h2><a href="#longitudinal-design-power-and-optimal-study-planning">Longitudinal Design, Power, and Optimal Study Planning</a></h2>
