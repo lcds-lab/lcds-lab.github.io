@@ -364,9 +364,10 @@ h3 {
 }
 
 .page-hero.compact.news-hero h1 {
-  max-width: 24ch;
-  font-size: clamp(2.1rem, 3.6vw, 3.15rem);
+  max-width: 34ch;
+  font-size: clamp(2rem, 3vw, 2.85rem);
   letter-spacing: -0.035em;
+  text-wrap: balance;
 }
 
 .page-hero.compact.news-index-hero h1 {
