@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section class="page-hero compact">
+<section class="page-hero compact{{ if eq .Section "news" }} news-hero news-index-hero{{ end }}">
   <p class="eyebrow">{{ .Title }}</p>
   <h1>{{ .Title }}</h1>
   {{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}

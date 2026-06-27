@@ -1,10 +1,10 @@
 {{ define "main" }}
-<section class="page-hero compact">
+<section class="page-hero compact{{ if eq .Section "news" }} news-hero{{ end }}">
   <p class="eyebrow">{{ .Section | humanize }}</p>
   <h1>{{ .Title }}</h1>
   {{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}
 </section>
-<article class="page-body">
+<article class="page-body{{ if eq .Section "news" }} news-body{{ end }}">
   {{ .Content }}
 </article>
 {{ end }}
