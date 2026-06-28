@@ -1,4 +1,8 @@
 {{ $projects := where site.RegularPages "Section" "projects" }}
+{{ $trackFilter := .Get "track" }}
+{{ if $trackFilter }}
+  {{ $projects = where $projects "Params.track" $trackFilter }}
+{{ end }}
 {{ $external := where $projects "Params.grant_type" "External Grant" }}
 {{ $internal := where $projects "Params.grant_type" "Internal Grant" }}
 
@@ -7,7 +11,7 @@
   <div class="cards four project-card-grid">
     {{ range $external.ByWeight }}
       <article class="card project-summary-card">
-        <p class="meta">{{ .Params.grant_type }} | {{ .Params.track }}</p>
+        <p class="meta">{{ .Params.grant_type }}{{ if not $trackFilter }} | {{ .Params.track }}{{ end }}</p>
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         <p class="project-card-detail"><strong>Funder:</strong> {{ .Params.funder }}</p>
         <p class="project-card-detail"><strong>Period:</strong> {{ .Params.period }}</p>
@@ -25,7 +29,7 @@
   <div class="cards four project-card-grid">
     {{ range $internal.ByWeight }}
       <article class="card project-summary-card">
-        <p class="meta">{{ .Params.grant_type }} | {{ .Params.track }}</p>
+        <p class="meta">{{ .Params.grant_type }}{{ if not $trackFilter }} | {{ .Params.track }}{{ end }}</p>
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
         <p class="project-card-detail"><strong>Funder:</strong> {{ .Params.funder }}</p>
         <p class="project-card-detail"><strong>Period:</strong> {{ .Params.period }}</p>

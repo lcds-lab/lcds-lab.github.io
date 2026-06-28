@@ -6,7 +6,7 @@
 </section>
 <article class="page-body">
   {{ .Content }}
-  {{ if .Pages }}
+  {{ if and .Pages (not .Params.hide_child_pages) }}
     <div class="list-grid">
       {{ range .Pages.ByDate.Reverse }}
         <a class="list-card" href="{{ .RelPermalink }}">
