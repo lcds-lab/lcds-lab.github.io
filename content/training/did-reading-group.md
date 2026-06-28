@@ -27,20 +27,20 @@ Each week will use a common discussion template:
 
 ## Planned Weekly Content
 
-| Week | Theme | Possible Readings | Discussion Output |
-| --- | --- | --- | --- |
-| Week 1 | DID foundations, estimands, TWFE, and event-study motivation | Roth, Sant'Anna, Bilinski, and Poe; Goodman-Bacon; Baker, Larcker, and Wang | Shared vocabulary and a TWFE/event-study caution note |
-| Week 2 | Group-time ATT, `csdid`, and doubly robust DID | Callaway and Sant'Anna; Sant'Anna and Zhao; Chen, Sant'Anna, and Xie as an advanced optional reading | Group-time ATT and aggregation guide |
-| Week 3 | Lab: TWFE, event study, and `did` / `csdid` output | Review Weeks 1-2 readings | Package-output checklist for R and Stata |
-| Week 4 | Modern event-study estimators: interaction-weighted and imputation approaches | Sun and Abraham; Borusyak, Jaravel, and Spiess | Event-study estimator comparison note |
-| Week 5 | Regression-friendly modern DID: two-stage DID, ETWFE, and Mundlak framing | Gardner; Wooldridge | Two-stage DID / ETWFE implementation note |
-| Week 6 | Heterogeneous effects, de Chaisemartin-D'Haultfoeuille, and stacked DID | de Chaisemartin and D'Haultfoeuille; Wing, Freedman, and Hollingsworth | Stacked DID and target-parameter decision note |
-| Week 7 | Parallel trends diagnostics, pretesting, and sensitivity | Roth; Rambachan and Roth; de Chaisemartin and D'Haultfoeuille optional readings on pretests | Parallel-trends diagnostics checklist |
-| Week 8 | Equivalence, noninferiority, and power for parallel-trends assessment | Bilinski and Hatfield; Shen; Schochet on DID/CITS power | Parallel-trends power and design memo |
-| Week 9 | Covariates, conditional parallel trends, and time-varying covariates | Caetano and Callaway; Caetano et al.; Knaus and Pfleiderer | Covariate timing and adjustment guide |
-| Week 10 | Inference, serial correlation, few clusters, and few treated groups | Bertrand, Duflo, and Mullainathan; Conley and Taber; Ferman and Pinto; Gerber | Inference-method decision note |
-| Week 11 | Repeated cross sections, compositional change, and population targets | Sant'Anna and Xu; Deb et al. optional reading | Panel vs. repeated-cross-section DID map |
-| Week 12 | Education applications, software audit, and synthesis | Lab projects, software documentation, and selected applied examples | Fall synthesis note and workshop/tutorial agenda |
+| Week | Theme | Readings |
+| --- | --- | --- |
+| Week 1 | DID foundations, estimands, TWFE, and event-study motivation | Roth et al. (2023); Goodman-Bacon (2021); Baker, Larcker, and Wang (2022) |
+| Week 2 | Group-time ATT, `csdid`, and doubly robust DID | Callaway and Sant'Anna (2021); Sant'Anna and Zhao (2020); Chen, Sant'Anna, and Xie (2025) |
+| Week 3 | Lab: TWFE, event study, and `did` / `csdid` output | Readings from Weeks 1-2 |
+| Week 4 | Modern event-study estimators: interaction-weighted and imputation approaches | Sun and Abraham (2021); Borusyak, Jaravel, and Spiess (2024) |
+| Week 5 | Regression-friendly modern DID: two-stage DID, ETWFE, and Mundlak framing | Gardner (2022); Butts and Gardner (2022); Wooldridge (2023, 2025) |
+| Week 6 | Heterogeneous effects, de Chaisemartin-D'Haultfoeuille, and stacked DID | de Chaisemartin and D'Haultfoeuille (2020, 2022); Wing, Freedman, and Hollingsworth (2024) |
+| Week 7 | Parallel trends diagnostics, pretesting, and sensitivity | Roth (2022); Rambachan and Roth (2023); de Chaisemartin and D'Haultfoeuille (2020, 2022) |
+| Week 8 | Equivalence, noninferiority, and power for parallel-trends assessment | Bilinski and Hatfield (2018); Shen (2026); Schochet (2022) |
+| Week 9 | Covariates, conditional parallel trends, and time-varying covariates | Caetano and Callaway (2024); Caetano et al. (2022); Knaus and Pfleiderer (2026) |
+| Week 10 | Inference, serial correlation, few clusters, and few treated groups | Bertrand, Duflo, and Mullainathan (2004); Conley and Taber (2011); Ferman and Pinto (2019); Gerber (2026) |
+| Week 11 | Repeated cross sections, compositional change, and population targets | Sant'Anna and Xu (2023); Deb et al. (2024) |
+| Week 12 | Education applications, software audit, and synthesis | Lab project materials; software documentation; selected applied education examples |
 
 ## Software and Lab Illustrations
 
