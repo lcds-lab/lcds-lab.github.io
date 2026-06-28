@@ -13,17 +13,18 @@ The LCDS Lab trains students, postdoctoral scholars, and collaborators to connec
 
 ## Training Philosophy
 
-The lab's training model emphasizes careful study design, transparent assumptions, reproducible workflows, clear writing, and communication with both methodological and applied audiences. Students and collaborators learn to move between statistical methodology, real education data, software-supported workflows, and partner-facing evidence.
+The lab's training model emphasizes statistical theory and derivation, careful study design, transparent assumptions, reproducible workflows, clear writing, and communication with both methodological and applied audiences. Students and collaborators learn to move between statistical methodology, real education data, software-supported workflows, and partner-facing evidence.
 
 ## Skills Students Develop
 
 <ul class="pill-list">
-  <li>R and statistical programming</li>
-  <li>Monte Carlo simulation</li>
+  <li>Statistical theory and derivation</li>
+  <li>Statistical programming</li>
+  <li>Causal inference and evaluation</li>
   <li>Multilevel modeling</li>
   <li>Longitudinal data analysis</li>
-  <li>Causal evaluation</li>
   <li>Difference-in-differences</li>
+  <li>Monte Carlo simulation</li>
   <li>Power and sample-size planning</li>
   <li>Education data science and AI</li>
   <li>Cost-effectiveness analysis</li>
@@ -35,7 +36,7 @@ The lab's training model emphasizes careful study design, transparent assumption
 <div class="cards">
   <article class="card">
     <h2>Foundation</h2>
-    <p>Build core skills in quantitative methods, programming, research design, causal reasoning, and education evaluation.</p>
+    <p>Build core skills in statistical theory and derivation, quantitative methods, programming, research design, causal reasoning, and education evaluation.</p>
   </article>
   <article class="card">
     <h2>Project Involvement</h2>
@@ -76,9 +77,12 @@ Upcoming workshops, seminars, and reading group meetings will be shared here whe
 ## Training Areas
 
 <ul class="pill-list">
+  <li>Statistical theory and derivation</li>
+  <li>Causal inference and evaluation</li>
+  <li>Multilevel modeling</li>
   <li>Longitudinal design and power</li>
-  <li>Causal evaluation</li>
   <li>Heterogeneous treatment effects</li>
+  <li>Statistical programming and simulation</li>
   <li>Education data science and AI</li>
   <li>Digital learning systems</li>
   <li>Cost-effectiveness and implementation</li>
