@@ -35,7 +35,7 @@ buildFuture = true
 [[menu.main]]
   name = 'Training'
   url = '/training/'
-  weight = 50
+  weight = 70
 
 [[menu.main]]
   name = 'Publications'
