@@ -1,4 +1,61 @@
 {{ define "main" }}
+{{ if eq .Site.Language.Lang "zh" }}
+<section class="hero hero-simple">
+  <div class="hero-copy">
+    <p class="eyebrow">Wei Li 主持</p>
+    <h1>为教育决策建立严谨证据</h1>
+    <p class="lede">纵向因果数据科学实验室由佛罗里达大学教育学院研究与评估方法学副教授、NSF CAREER 获奖者 <a href="https://education.ufl.edu/faculty/li-wei/">Wei Li</a> 主持。实验室连接统计方法、因果评估、教育数据科学、人工智能和应用合作。</p>
+    <p class="identity-line">我们发展统计方法、软件和应用合作，帮助教育研究者设计纵向研究、估计因果效应、理解哪些学习者或教育情境受益，并将影响证据与成本、实施和规模化联系起来。</p>
+    <div class="hero-actions">
+      <a class="button primary" href="{{ "/zh/research/" | relURL }}">浏览研究</a>
+      <a class="button secondary" href="{{ "/zh/research/#two-research-tracks" | relURL }}">查看资助项目</a>
+      <a class="button secondary" href="{{ "/zh/join/" | relURL }}">加入实验室</a>
+      <a class="button secondary" href="{{ "/zh/join/#collaborators" | relURL }}">合作交流</a>
+    </div>
+  </div>
+</section>
+
+<section class="section-grid glance-section">
+  <div class="section-intro">
+    <p class="eyebrow">研究方向</p>
+    <h2>四个方向共同建设更强的教育证据</h2>
+  </div>
+  <div class="cards four">
+    <article class="card">
+      <h3>纵向设计、统计功效与最优研究规划</h3>
+      <p>发展纵向、多层和重复测量研究中的设计参数、功效分析方法和样本量规划工具。</p>
+    </article>
+    <article class="card">
+      <h3>因果评估与异质性处理效应</h3>
+      <p>研究实验和准实验方法、错位实施的双重差分、调节和中介机制，以及用于异质效应分析的机器学习方法。</p>
+    </article>
+    <article class="card">
+      <h3>教育数据科学、人工智能与数字学习系统</h3>
+      <p>利用大规模行政数据、数字学习数据、测评数据和 AI 支持的数据系统，生成可解释、可用于决策的证据。</p>
+    </article>
+    <article class="card">
+      <h3>干预评估、成本效果与实施证据</h3>
+      <p>将影响估计与成本、实施、可扩展性和教育项目决策联系起来。</p>
+    </article>
+  </div>
+</section>
+
+<section class="section-grid news-preview">
+  <div class="section-intro">
+    <p class="eyebrow">新闻</p>
+    <h2>实验室动态</h2>
+  </div>
+  <div class="list-grid">
+    {{ range (where .Site.RegularPages "Section" "news").ByDate.Reverse }}
+      <article class="list-card">
+        <span>{{ .Date.Format "2006年1月2日" }}</span>
+        <strong>{{ .Title }}</strong>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+      </article>
+    {{ end }}
+  </div>
+</section>
+{{ else }}
 <section class="hero hero-simple">
   <div class="hero-copy">
     <p class="eyebrow">Led by Wei Li</p>
@@ -7,7 +64,7 @@
     <p class="identity-line">We develop statistical methods, software, and applied partnerships that help education researchers design longitudinal studies, estimate causal effects, understand who benefits, and connect impact evidence to cost, implementation, and scale.</p>
     <div class="hero-actions">
       <a class="button primary" href="{{ "/research/" | relURL }}">Explore Research</a>
-      <a class="button secondary" href="{{ "/research/#funded-projects" | relURL }}">View Funded Projects</a>
+      <a class="button secondary" href="{{ "/research/#two-research-tracks" | relURL }}">View Funded Projects</a>
       <a class="button secondary" href="{{ "/join/" | relURL }}">Join the Lab</a>
       <a class="button secondary" href="{{ "/join/#collaborators" | relURL }}">Collaborate with Us</a>
     </div>
@@ -54,4 +111,5 @@
     {{ end }}
   </div>
 </section>
+{{ end }}
 {{ end }}

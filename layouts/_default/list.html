@@ -1,6 +1,5 @@
 {{ define "main" }}
 <section class="page-hero compact{{ if eq .Section "news" }} news-hero news-index-hero{{ else if eq .Section "research" }} research-hero{{ end }}">
-  <p class="eyebrow">{{ .Title }}</p>
   <h1>{{ .Title }}</h1>
   {{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}
 </section>
@@ -10,7 +9,7 @@
     <div class="list-grid">
       {{ range .Pages.ByDate.Reverse }}
         <a class="list-card" href="{{ .RelPermalink }}">
-          {{ if not .Date.IsZero }}<span>{{ .Date.Format "January 2, 2006" }}</span>{{ end }}
+          {{ if not .Date.IsZero }}<span>{{ if eq .Site.Language.Lang "zh" }}{{ .Date.Format "2006年1月2日" }}{{ else }}{{ .Date.Format "January 2, 2006" }}{{ end }}</span>{{ end }}
           <strong>{{ .Title }}</strong>
           {{ with .Description }}<p>{{ . }}</p>{{ end }}
         </a>

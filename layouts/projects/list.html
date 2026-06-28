@@ -1,6 +1,7 @@
 {{ define "main" }}
+{{ $isZh := eq .Site.Language.Lang "zh" }}
 <section class="page-hero compact">
-  <p class="eyebrow">Projects</p>
+  <p class="eyebrow">{{ if $isZh }}项目{{ else }}Projects{{ end }}</p>
   <h1>{{ .Title }}</h1>
   {{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}
 </section>
@@ -9,14 +10,14 @@
 
   {{ $external := where .Pages "Params.grant_type" "External Grant" }}
   {{ if $external }}
-    <h2 id="external-grants">External Grants</h2>
+    <h2 id="external-grants">{{ if $isZh }}校外资助项目{{ else }}External Grants{{ end }}</h2>
     <div class="cards four">
       {{ range $external.ByWeight }}
         <article class="card">
           <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
           <p class="meta">{{ .Params.funder }} | {{ .Params.period }} | {{ .Params.role }}</p>
           {{ with .Description }}<p>{{ . }}</p>{{ end }}
-          {{ with .Params.amount }}<p><strong>Amount:</strong> {{ . }}</p>{{ end }}
+          {{ with .Params.amount }}<p><strong>{{ if $isZh }}金额{{ else }}Amount{{ end }}:</strong> {{ . }}</p>{{ end }}
         </article>
       {{ end }}
     </div>
@@ -24,14 +25,14 @@
 
   {{ $internal := where .Pages "Params.grant_type" "Internal Grant" }}
   {{ if $internal }}
-    <h2 id="internal-grants">Internal Grants</h2>
+    <h2 id="internal-grants">{{ if $isZh }}校内资助项目{{ else }}Internal Grants{{ end }}</h2>
     <div class="cards four">
       {{ range $internal.ByWeight }}
         <article class="card">
           <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
           <p class="meta">{{ .Params.funder }} | {{ .Params.period }} | {{ .Params.role }}</p>
           {{ with .Description }}<p>{{ . }}</p>{{ end }}
-          {{ with .Params.amount }}<p><strong>Amount:</strong> {{ . }}</p>{{ end }}
+          {{ with .Params.amount }}<p><strong>{{ if $isZh }}金额{{ else }}Amount{{ end }}:</strong> {{ . }}</p>{{ end }}
         </article>
       {{ end }}
     </div>

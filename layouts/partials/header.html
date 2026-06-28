@@ -1,18 +1,37 @@
 <header class="site-header">
-  <a class="skip-link" href="#content">Skip to content</a>
+  <a class="skip-link" href="#content">{{ if eq .Site.Language.Lang "zh" }}跳到正文{{ else }}Skip to content{{ end }}</a>
   <div class="topline"></div>
-  <nav class="nav-wrap" aria-label="Main navigation">
-    <a class="brand" href="{{ "/" | relURL }}" aria-label="{{ .Site.Title }} home">
+  <nav class="nav-wrap" aria-label="{{ if eq .Site.Language.Lang "zh" }}主导航{{ else }}Main navigation{{ end }}">
+    <a class="brand" href="{{ .Site.Home.RelPermalink }}" aria-label="{{ .Site.Title }} home">
       <span class="brand-mark">LCDS</span>
       <span>
-        <strong>Longitudinal Causal Data Science Lab</strong>
-        <small>University of Florida College of Education</small>
+        {{ if eq .Site.Language.Lang "zh" }}
+          <strong>纵向因果数据科学实验室</strong>
+          <small>佛罗里达大学教育学院</small>
+        {{ else }}
+          <strong>Longitudinal Causal Data Science Lab</strong>
+          <small>University of Florida College of Education</small>
+        {{ end }}
       </span>
     </a>
     <div class="nav-links">
       {{ range .Site.Menus.main }}
         <a href="{{ .URL | relURL }}">{{ .Name }}</a>
       {{ end }}
+      {{ $languageSwitchLabel := "Chinese Version" }}
+      {{ $languageSwitchURL := "/zh/" }}
+      {{ if eq .Site.Language.Lang "zh" }}
+        {{ $languageSwitchLabel = "English Version" }}
+        {{ $languageSwitchURL = "/" }}
+      {{ end }}
+      {{ range .Translations }}
+        {{ if and (eq $.Site.Language.Lang "en") (eq .Site.Language.Lang "zh") }}
+          {{ $languageSwitchURL = .RelPermalink }}
+        {{ else if and (eq $.Site.Language.Lang "zh") (eq .Site.Language.Lang "en") }}
+          {{ $languageSwitchURL = .RelPermalink }}
+        {{ end }}
+      {{ end }}
+      <a href="{{ $languageSwitchURL }}">{{ $languageSwitchLabel }}</a>
     </div>
   </nav>
 </header>

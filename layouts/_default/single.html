@@ -1,6 +1,17 @@
 {{ define "main" }}
+{{ $sectionLabel := .Section | humanize }}
+{{ if eq .Site.Language.Lang "zh" }}
+  {{ if eq .Section "news" }}{{ $sectionLabel = "新闻" }}{{ end }}
+  {{ if eq .Section "projects" }}{{ $sectionLabel = "项目" }}{{ end }}
+  {{ if eq .Section "research" }}{{ $sectionLabel = "研究" }}{{ end }}
+  {{ if eq .Section "training" }}{{ $sectionLabel = "培训" }}{{ end }}
+  {{ if eq .Section "people" }}{{ $sectionLabel = "成员" }}{{ end }}
+  {{ if eq .Section "resources" }}{{ $sectionLabel = "资源" }}{{ end }}
+  {{ if eq .Section "publications" }}{{ $sectionLabel = "出版物" }}{{ end }}
+  {{ if eq .Section "join" }}{{ $sectionLabel = "加入我们" }}{{ end }}
+{{ end }}
 <section class="page-hero compact{{ if eq .Section "news" }} news-hero{{ else if eq .Section "projects" }} project-hero{{ else if eq .Section "research" }} research-hero{{ else if eq .Section "training" }} training-hero{{ end }}">
-  <p class="eyebrow">{{ .Section | humanize }}</p>
+  <p class="eyebrow">{{ $sectionLabel }}</p>
   <h1>{{ .Title }}</h1>
   {{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}
 </section>

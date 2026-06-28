@@ -1,7 +1,12 @@
 <footer class="site-footer">
   <div>
-    <strong>Longitudinal Causal Data Science Lab</strong>
-    <p>{{ .Site.Params.ufUnit }}</p>
+    {{ if eq .Site.Language.Lang "zh" }}
+      <strong>纵向因果数据科学实验室</strong>
+      <p>佛罗里达大学教育学院</p>
+    {{ else }}
+      <strong>Longitudinal Causal Data Science Lab</strong>
+      <p>{{ .Site.Params.ufUnit }}</p>
+    {{ end }}
   </div>
   <div class="footer-links">
     <a href="mailto:{{ .Site.Params.contactEmail }}">{{ .Site.Params.contactEmail }}</a>

@@ -18,6 +18,7 @@ Within the lab, this project connects STEM education, intervention evaluation, a
 ## Project Information
 
 - **Funding agency:** National Science Foundation
+- **Award ID:** DRL-2031233
 - **Role:** Senior Personnel
 - **PI:** Maya Israel
 - **Project period:** August 16, 2021-August 15, 2022
@@ -38,3 +39,7 @@ Within the lab, this project connects STEM education, intervention evaluation, a
 - [NSF CAREER: Longitudinal Studies in STEM Education](/projects/nsf-career-longitudinal-studies/)
 - [Scaling Targeted Reading Instruction](/projects/scaling-targeted-reading-instruction/)
 - [Florida Embedded Practices and Intervention with Caregivers](/projects/florida-embedded-practices-caregivers/)
+
+## NSF Acknowledgment and Disclaimer
+
+This material is based upon work supported by the National Science Foundation under Award No. DRL-2031233. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.

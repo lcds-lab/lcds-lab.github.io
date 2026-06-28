@@ -2,6 +2,8 @@ baseURL = 'https://lcds-lab.github.io/'
 locale = 'en-us'
 title = 'Longitudinal Causal Data Science Lab'
 buildFuture = true
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
 
 [params]
   description = 'The Longitudinal Causal Data Science Lab at the University of Florida advances longitudinal study design, causal evaluation, education data science, AI, and cost-effectiveness methods for education decisions.'
@@ -11,42 +13,90 @@ buildFuture = true
   personalWebsite = 'https://sites.google.com/view/weiliedu/home'
   googleAnalyticsID = 'G-65G6MVMBW3'
 
+[languages]
+  [languages.en]
+    locale = 'en-us'
+    label = 'English'
+    title = 'Longitudinal Causal Data Science Lab'
+    weight = 1
+
+  [languages.zh]
+    locale = 'zh-Hans'
+    label = '中文'
+    title = '纵向因果数据科学实验室'
+    weight = 2
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
-[[menu.main]]
+[[languages.en.menu.main]]
   name = 'Home'
   url = '/'
   weight = 10
 
-[[menu.main]]
+[[languages.en.menu.main]]
   name = 'People'
   url = '/people/'
   weight = 30
 
-[[menu.main]]
+[[languages.en.menu.main]]
   name = 'Research'
   url = '/research/'
   weight = 40
 
-[[menu.main]]
-  name = 'Training'
-  url = '/training/'
-  weight = 70
-
-[[menu.main]]
+[[languages.en.menu.main]]
   name = 'Publications'
   url = '/publications/'
   weight = 60
 
-[[menu.main]]
+[[languages.en.menu.main]]
   name = 'Resources'
   url = '/resources/'
   weight = 65
 
-[[menu.main]]
+[[languages.en.menu.main]]
+  name = 'Training'
+  url = '/training/'
+  weight = 70
+
+[[languages.en.menu.main]]
   name = 'Join us'
   url = '/join/'
+  weight = 80
+
+[[languages.zh.menu.main]]
+  name = '首页'
+  url = '/zh/'
+  weight = 10
+
+[[languages.zh.menu.main]]
+  name = '成员'
+  url = '/zh/people/'
+  weight = 30
+
+[[languages.zh.menu.main]]
+  name = '研究'
+  url = '/zh/research/'
+  weight = 40
+
+[[languages.zh.menu.main]]
+  name = '出版物'
+  url = '/zh/publications/'
+  weight = 60
+
+[[languages.zh.menu.main]]
+  name = '资源'
+  url = '/zh/resources/'
+  weight = 65
+
+[[languages.zh.menu.main]]
+  name = '培训'
+  url = '/zh/training/'
+  weight = 70
+
+[[languages.zh.menu.main]]
+  name = '加入我们'
+  url = '/zh/join/'
   weight = 80

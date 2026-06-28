@@ -1,5 +1,6 @@
 {{ $projects := where site.RegularPages "Section" "projects" }}
 {{ $trackFilter := .Get "track" }}
+{{ $isZh := eq site.Language.Lang "zh" }}
 {{ if $trackFilter }}
   {{ $projects = where $projects "Params.track" $trackFilter }}
 {{ end }}
@@ -7,36 +8,36 @@
 {{ $internal := where $projects "Params.grant_type" "Internal Grant" }}
 
 {{ if $external }}
-  <h3 id="external-funded-projects">External Grants</h3>
+  <h3 id="external-funded-projects">{{ if $isZh }}校外资助项目{{ else }}External Grants{{ end }}</h3>
   <div class="cards four project-card-grid">
     {{ range $external.ByWeight }}
       <article class="card project-summary-card">
-        <p class="meta">{{ .Params.grant_type }}{{ if not $trackFilter }} | {{ .Params.track }}{{ end }}</p>
+        <p class="meta">{{ if $isZh }}校外资助项目{{ else }}{{ .Params.grant_type }}{{ end }}{{ if not $trackFilter }} | {{ if and $isZh (eq .Params.track "Methodological Research") }}方法学研究{{ else if and $isZh (eq .Params.track "Empirical and Applied Evaluation") }}实证与应用评估{{ else }}{{ .Params.track }}{{ end }}{{ end }}</p>
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        <p class="project-card-detail"><strong>Funder:</strong> {{ .Params.funder }}</p>
-        <p class="project-card-detail"><strong>Period:</strong> {{ .Params.period }}</p>
-        <p class="project-card-detail"><strong>Role:</strong> {{ .Params.role }}</p>
-        {{ with .Params.amount }}<p class="project-card-detail"><strong>Amount:</strong> {{ . }}</p>{{ end }}
+        <p class="project-card-detail"><strong>{{ if $isZh }}资助方{{ else }}Funder{{ end }}:</strong> {{ .Params.funder }}</p>
+        <p class="project-card-detail"><strong>{{ if $isZh }}周期{{ else }}Period{{ end }}:</strong> {{ .Params.period }}</p>
+        <p class="project-card-detail"><strong>{{ if $isZh }}角色{{ else }}Role{{ end }}:</strong> {{ .Params.role }}</p>
+        {{ with .Params.amount }}<p class="project-card-detail"><strong>{{ if $isZh }}金额{{ else }}Amount{{ end }}:</strong> {{ . }}</p>{{ end }}
         {{ with .Description }}<p>{{ . }}</p>{{ end }}
-        <p class="project-card-actions"><a class="button secondary" href="{{ .RelPermalink }}">View project page</a></p>
+        <p class="project-card-actions"><a class="button secondary" href="{{ .RelPermalink }}">{{ if $isZh }}查看项目页面{{ else }}View project page{{ end }}</a></p>
       </article>
     {{ end }}
   </div>
 {{ end }}
 
 {{ if $internal }}
-  <h3 id="internal-funded-projects">Internal Grants</h3>
+  <h3 id="internal-funded-projects">{{ if $isZh }}校内资助项目{{ else }}Internal Grants{{ end }}</h3>
   <div class="cards four project-card-grid">
     {{ range $internal.ByWeight }}
       <article class="card project-summary-card">
-        <p class="meta">{{ .Params.grant_type }}{{ if not $trackFilter }} | {{ .Params.track }}{{ end }}</p>
+        <p class="meta">{{ if $isZh }}校内资助项目{{ else }}{{ .Params.grant_type }}{{ end }}{{ if not $trackFilter }} | {{ if and $isZh (eq .Params.track "Methodological Research") }}方法学研究{{ else if and $isZh (eq .Params.track "Empirical and Applied Evaluation") }}实证与应用评估{{ else }}{{ .Params.track }}{{ end }}{{ end }}</p>
         <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-        <p class="project-card-detail"><strong>Funder:</strong> {{ .Params.funder }}</p>
-        <p class="project-card-detail"><strong>Period:</strong> {{ .Params.period }}</p>
-        <p class="project-card-detail"><strong>Role:</strong> {{ .Params.role }}</p>
-        {{ with .Params.amount }}<p class="project-card-detail"><strong>Amount:</strong> {{ . }}</p>{{ end }}
+        <p class="project-card-detail"><strong>{{ if $isZh }}资助方{{ else }}Funder{{ end }}:</strong> {{ .Params.funder }}</p>
+        <p class="project-card-detail"><strong>{{ if $isZh }}周期{{ else }}Period{{ end }}:</strong> {{ .Params.period }}</p>
+        <p class="project-card-detail"><strong>{{ if $isZh }}角色{{ else }}Role{{ end }}:</strong> {{ .Params.role }}</p>
+        {{ with .Params.amount }}<p class="project-card-detail"><strong>{{ if $isZh }}金额{{ else }}Amount{{ end }}:</strong> {{ . }}</p>{{ end }}
         {{ with .Description }}<p>{{ . }}</p>{{ end }}
-        <p class="project-card-actions"><a class="button secondary" href="{{ .RelPermalink }}">View project page</a></p>
+        <p class="project-card-actions"><a class="button secondary" href="{{ .RelPermalink }}">{{ if $isZh }}查看项目页面{{ else }}View project page{{ end }}</a></p>
       </article>
     {{ end }}
   </div>
