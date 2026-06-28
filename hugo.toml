@@ -9,7 +9,6 @@ buildFuture = true
   ufUnit = 'College of Education, University of Florida'
   contactEmail = 'wei.li@coe.ufl.edu'
   personalWebsite = 'https://sites.google.com/view/weiliedu/home'
-  postdocLink = 'https://explore.jobs.ufl.edu/en-us/job/539018/postdoctoral-scholar-research-and-evaluation-methodology-program'
   googleAnalyticsID = 'G-65G6MVMBW3'
 
 [markup]

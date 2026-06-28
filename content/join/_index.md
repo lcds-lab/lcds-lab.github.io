@@ -6,10 +6,9 @@ description: "Opportunities for postdoctoral scholars, doctoral students, and co
 We welcome people who are excited about longitudinal design, causal evaluation, education data science, AI, cost-effectiveness, and rigorous evaluation of education programs.
 
 <div class="callout">
-  <h2>Postdoctoral opportunity</h2>
-  <p><strong>Status:</strong> Active as of May 21, 2026. The UF posting notes that review is rolling and the position remains open until filled.</p>
-  <p>Postdoctoral scholars will work with Dr. Wei Li on funded projects focused on quantitative methods development and causal evaluation of educational programs. The position is a 12-month appointment, renewable contingent on research needs, funding, and satisfactory performance. The start date is flexible, and the role may be in person in Gainesville, FL, or remote.</p>
-  <p><a class="button primary" href="https://explore.jobs.ufl.edu/en-us/job/539018/postdoctoral-scholar-research-and-evaluation-methodology-program">View the UF posting</a></p>
+  <h2>Postdoctoral opportunities</h2>
+  <p>We have funding flexibility for postdoctoral scholars with strong training in statistics, econometrics, or related fields and research interests in causal inference, machine learning, and AI in education.</p>
+  <p>Potential projects connect methodological development with applied education questions using longitudinal, administrative, digital-learning, and experimental or quasi-experimental data.</p>
 </div>
 
 ## Postdoctoral Fit
