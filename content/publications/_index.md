@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+## Working Papers
+
+1. **Li, W.**, & Strickland, K. J. Designing longitudinal quasi-experimental studies using staggered DID: Estimator selection, software implementation, and sample size planning.
+
 ## Book Chapter
 
 1. Konstantopoulos, S., **Li, W.**, & Zhang, B. (in press). Statistical power in cross-sectional multilevel experiments in education. In M. Stemmler, W. Wiedermann, & F. Huang (Eds.), *Dependent data in social sciences research: Forms, issues, and methods of analysis* (2nd ed.). Springer.
@@ -36,9 +40,3 @@ title: "Publications"
   <li>Konstantopoulos, S., & <strong>Li, W.</strong> (2012). Are there additional benefits from being in small classes for more than one year? <em>Educational Research and Evaluation, 18</em>, 671-685. <a href="https://doi.org/10.1080/13803611.2012.718431">doi:10.1080/13803611.2012.718431</a></li>
   <li>Konstantopoulos, S., & <strong>Li, W.</strong> (2012). Modeling class size effects across the achievement distribution. <em>International Journal of Sociology of Education, 1</em>, 5-26. <a href="https://doi.org/10.4471/rise.2012.01">doi:10.4471/rise.2012.01</a></li>
 </ol>
-
-## Working Papers
-
-1. **Li, W.**, & Strickland, K. J. Designing longitudinal quasi-experimental studies using staggered DID: Estimator selection, software implementation, and sample size planning.
-2. Strickland, K. J., Hill, J., & **Li, W.** Estimating heterogeneous treatment effects of the gifted and talented program using Bayesian additive regression trees.
-3. Strickland, K. J., Cassidy, M., **Li, W.**, & Gao, X. A staggered difference-in-differences analysis of school achievement and performance after gifted program adoption.
