@@ -5,6 +5,7 @@ title: "Publications"
 ## Working Papers
 
 1. **Li, W.**, & Strickland, K. J. Designing longitudinal quasi-experimental studies using staggered DID: Estimator selection, software implementation, and sample size planning.
+2. **Li, W.**, & Strickland, K. J. Difference-in-differences under conditional parallel trends with time-invariant covariates: Methods, implementation, and power analysis.
 
 ## Book Chapter
 
