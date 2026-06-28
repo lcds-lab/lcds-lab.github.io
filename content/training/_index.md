@@ -69,6 +69,7 @@ The lab's training model emphasizes statistical theory and derivation, careful s
   <article class="card">
     <h2>Reading and Methods Group</h2>
     <p>The lab will organize reading groups on recent developments in difference-in-differences in Fall 2026 and causal machine learning in Spring 2027.</p>
+    <p><a href="/training/did-reading-group/">View the Fall 2026 DID reading group plan</a></p>
   </article>
 </div>
 
