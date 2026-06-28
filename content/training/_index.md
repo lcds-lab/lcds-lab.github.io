@@ -68,7 +68,7 @@ The lab's training model emphasizes statistical theory and derivation, careful s
   </article>
   <article class="card">
     <h2>Reading and Methods Group</h2>
-    <p>Informal discussions of papers, methods, and emerging tools in causal data science, AI, and longitudinal education research.</p>
+    <p>The lab will organize reading groups on recent developments in difference-in-differences in Fall 2026 and causal machine learning in Spring 2027.</p>
   </article>
 </div>
 
