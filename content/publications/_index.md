@@ -1,9 +1,6 @@
 ---
 title: "Publications"
-description: "Full publication list organized by research methodology and applied education research."
 ---
-
-The lists below follow Wei Li's CV organization. Student and postdoctoral-scholar author notes are shown when included in the CV: (g) graduate student author; (p) postdoctoral scholar.
 
 ## Book Chapter
 
@@ -11,7 +8,7 @@ The lists below follow Wei Li's CV organization. Student and postdoctoral-schola
 
 ## Research Methodology
 
-1. **Li, W.**, Dong, N., Maynard, R., Kelcey, B., Spybrook, J., & Xu, Y. (g). (2025). Sample size planning in the design of two-level randomized cost-effectiveness trials. *Research on Social Work Practice, 35*(3), 307-320. [doi:10.1177/10497315241281501](https://doi.org/10.1177/10497315241281501)
+1. **Li, W.**, Dong, N., Maynard, R., Kelcey, B., Spybrook, J., & Xu, Y. (2025). Sample size planning in the design of two-level randomized cost-effectiveness trials. *Research on Social Work Practice, 35*(3), 307-320. [doi:10.1177/10497315241281501](https://doi.org/10.1177/10497315241281501)
 2. Dong, N., Maynard, R., Kelcey, B., Spybrook, J., **Li, W.**, & Bowden, B. (2025). Advantages of Monte Carlo confidence intervals for incremental cost-effectiveness ratios: A comparison of five methods. *Journal of Research on Educational Effectiveness, 18*(4), 951-979. [doi:10.1080/19345747.2024.2393412](https://doi.org/10.1080/19345747.2024.2393412)
 3. Shen, Z., **Li, W.**, & Leite, W. (2024). Statistical power and optimal design for randomized controlled trials investigating mediation effects. *Psychological Methods*. Advance online publication. [doi:10.1037/met0000698](https://doi.org/10.1037/met0000698)
 4. **Li, W.**, Xie, Y., Pham, D., Dong, N., Spybrook, J., & Kelcey, B. (2024). Design and analysis of cluster randomized trials. *Asia Pacific Education Review, 25*(3), 685-701. [doi:10.1007/s12564-024-09984-z](https://doi.org/10.1007/s12564-024-09984-z)
@@ -39,3 +36,9 @@ The lists below follow Wei Li's CV organization. Student and postdoctoral-schola
   <li>Konstantopoulos, S., & <strong>Li, W.</strong> (2012). Are there additional benefits from being in small classes for more than one year? <em>Educational Research and Evaluation, 18</em>, 671-685. <a href="https://doi.org/10.1080/13803611.2012.718431">doi:10.1080/13803611.2012.718431</a></li>
   <li>Konstantopoulos, S., & <strong>Li, W.</strong> (2012). Modeling class size effects across the achievement distribution. <em>International Journal of Sociology of Education, 1</em>, 5-26. <a href="https://doi.org/10.4471/rise.2012.01">doi:10.4471/rise.2012.01</a></li>
 </ol>
+
+## Working Papers
+
+1. **Li, W.**, & Strickland, K. J. Designing longitudinal quasi-experimental studies using staggered DID: Estimator selection, software implementation, and sample size planning.
+2. Strickland, K. J., Hill, J., & **Li, W.** Estimating heterogeneous treatment effects of the gifted and talented program using Bayesian additive regression trees.
+3. Strickland, K. J., Cassidy, M., **Li, W.**, & Gao, X. A staggered difference-in-differences analysis of school achievement and performance after gifted program adoption.
