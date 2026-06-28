@@ -42,16 +42,15 @@
 <section class="section-grid news-preview">
   <div class="section-intro">
     <p class="eyebrow">News</p>
-    <h2>Recent updates</h2>
-    <a href="{{ "/news/" | relURL }}">View all news</a>
+    <h2>Lab updates</h2>
   </div>
   <div class="list-grid">
-    {{ range first 3 (where .Site.RegularPages "Section" "news").ByDate.Reverse }}
-      <a class="list-card" href="{{ .RelPermalink }}">
+    {{ range (where .Site.RegularPages "Section" "news").ByDate.Reverse }}
+      <article class="list-card">
         <span>{{ .Date.Format "January 2, 2006" }}</span>
         <strong>{{ .Title }}</strong>
         {{ with .Description }}<p>{{ . }}</p>{{ end }}
-      </a>
+      </article>
     {{ end }}
   </div>
 </section>
