@@ -6,6 +6,7 @@ title: "Publications"
 
 1. **Li, W.**, & Strickland, K. J. Designing longitudinal quasi-experimental studies using staggered DID: Estimator selection, software implementation, and sample size planning.
 2. **Li, W.**, & Strickland, K. J. Difference-in-differences under conditional parallel trends with time-invariant covariates: Methods, implementation, and power analysis.
+3. **Li, W.**, Strickland, K. J., Bratsch-Hines, M., Gao, X., & Xu, R. Measurement-sensitive causal evaluation of engagement profiles in Literacy Matrix: Evidence from IRT-based learning outcomes.
 
 ## Book Chapter
 
