@@ -38,8 +38,8 @@ buildFuture = true
   weight = 40
 
 [[menu.main]]
-  name = 'Events'
-  url = '/events/'
+  name = 'Training'
+  url = '/training/'
   weight = 50
 
 [[menu.main]]
@@ -51,11 +51,6 @@ buildFuture = true
   name = 'Software'
   url = '/software/'
   weight = 65
-
-[[menu.main]]
-  name = 'Teaching'
-  url = '/teaching/'
-  weight = 70
 
 [[menu.main]]
   name = 'Join us'
