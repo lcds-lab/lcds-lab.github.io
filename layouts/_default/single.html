@@ -1,5 +1,5 @@
 {{ define "main" }}
-<section class="page-hero compact{{ if eq .Section "news" }} news-hero{{ else if eq .Section "projects" }} project-hero{{ else if eq .Section "research" }} research-hero{{ end }}">
+<section class="page-hero compact{{ if eq .Section "news" }} news-hero{{ else if eq .Section "projects" }} project-hero{{ else if eq .Section "research" }} research-hero{{ else if eq .Section "training" }} training-hero{{ end }}">
   <p class="eyebrow">{{ .Section | humanize }}</p>
   <h1>{{ .Title }}</h1>
   {{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}
