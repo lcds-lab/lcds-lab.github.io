@@ -60,7 +60,7 @@ The lab's training model emphasizes statistical theory and derivation, careful s
 <div class="cards">
   <article class="card">
     <h2>Workshops</h2>
-    <p>Hands-on training sessions on statistical methods, study design, software, and applied education data analysis.</p>
+    <p>Hands-on workshops on the design and analysis of longitudinal studies using randomized controlled trials and difference-in-differences designs, with planned training opportunities at SREE, AERA, AEFP, and APPAM in the coming years.</p>
   </article>
   <article class="card">
     <h2>Seminars</h2>
