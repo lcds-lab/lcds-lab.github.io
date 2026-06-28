@@ -1,10 +1,10 @@
 {{ define "main" }}
-<section class="page-hero compact{{ if eq .Section "news" }} news-hero news-index-hero{{ end }}">
+<section class="page-hero compact{{ if eq .Section "news" }} news-hero news-index-hero{{ else if eq .Section "research" }} research-hero{{ end }}">
   <p class="eyebrow">{{ .Title }}</p>
   <h1>{{ .Title }}</h1>
   {{ with .Description }}<p class="lede">{{ . }}</p>{{ end }}
 </section>
-<article class="page-body">
+<article class="page-body{{ if eq .Section "research" }} research-body{{ end }}">
   {{ .Content }}
   {{ if and .Pages (not .Params.hide_child_pages) }}
     <div class="list-grid">
