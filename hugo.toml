@@ -4,6 +4,7 @@ title = 'Longitudinal Causal Data Science Lab'
 buildFuture = true
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
+disableLanguages = ['zh']
 
 [params]
   description = 'The Longitudinal Causal Data Science Lab at the University of Florida advances longitudinal study design, causal evaluation, education data science, AI, and cost-effectiveness methods for education decisions.'
@@ -12,6 +13,7 @@ defaultContentLanguageInSubdir = false
   contactEmail = 'wei.li@coe.ufl.edu'
   personalWebsite = 'https://sites.google.com/view/weiliedu/home'
   googleAnalyticsID = 'G-65G6MVMBW3'
+  showChineseVersion = false
 
 [languages]
   [languages.en]
