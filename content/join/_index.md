@@ -9,6 +9,7 @@ We welcome people who are excited about longitudinal design, causal evaluation, 
   <h2>Postdoctoral opportunities</h2>
   <p>We have funding flexibility for postdoctoral scholars with strong training in statistics, econometrics, or related fields and research interests in causal inference, machine learning, and AI in education.</p>
   <p>Potential projects connect methodological development with applied education questions using longitudinal, administrative, digital-learning, and experimental or quasi-experimental data.</p>
+  <p>If you are interested, please email <a href="mailto:wei.li@coe.ufl.edu">Wei Li</a> with your CV and a brief note describing your research interests.</p>
 </div>
 
 ## Postdoctoral Fit
