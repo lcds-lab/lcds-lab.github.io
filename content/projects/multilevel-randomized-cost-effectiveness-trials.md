@@ -40,7 +40,7 @@ Within the lab, this project is the main home for methods, software, and dissemi
 
 ## Related Software
 
-- **Li, W.**, Dong, N., Maynard, R. A., Spybrook, J., & Kelcey, B. (2023). *PowerUp!-CEA: A tool for calculating statistical power in multilevel randomized cost-effectiveness trials* (Version 1.2). [Software](/software/).
+- **Li, W.**, Dong, N., Maynard, R. A., Spybrook, J., & Kelcey, B. (2023). *PowerUp!-CEA: A tool for calculating statistical power in multilevel randomized cost-effectiveness trials* (Version 1.2). [Resources](/resources/).
 
 ## Related Presentations
 

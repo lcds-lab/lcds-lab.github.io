@@ -33,7 +33,7 @@ Within the lab, this project connects intervention evaluation with cost, impleme
 ## Related Publications and Software
 
 - **Li, W.**, Dong, N., Maynard, R., Kelcey, B., Spybrook, J., & Xu, Y. (2025). Sample size planning in the design of two-level randomized cost-effectiveness trials. *Research on Social Work Practice, 35*(3), 307-320. [doi:10.1177/10497315241281501](https://doi.org/10.1177/10497315241281501)
-- **Li, W.**, Dong, N., Maynard, R. A., Spybrook, J., & Kelcey, B. (2023). *PowerUp!-CEA: A tool for calculating statistical power in multilevel randomized cost-effectiveness trials* (Version 1.2). [Software](/software/).
+- **Li, W.**, Dong, N., Maynard, R. A., Spybrook, J., & Kelcey, B. (2023). *PowerUp!-CEA: A tool for calculating statistical power in multilevel randomized cost-effectiveness trials* (Version 1.2). [Resources](/resources/).
 
 ## Related Projects
 

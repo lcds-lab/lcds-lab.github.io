@@ -1,9 +1,11 @@
 ---
-title: "Software"
-description: "Statistical software and tools developed by LCDS Lab members and collaborators."
+title: "Resources"
+description: "Statistical software, tools, and training resources developed by LCDS Lab members and collaborators."
+aliases:
+  - /software/
 ---
 
-The LCDS Lab develops and shares statistical software and tools for study design, power analysis, causal evaluation, cost-effectiveness analysis, and longitudinal education research.
+The LCDS Lab develops and shares statistical software, tools, examples, and training resources for study design, power analysis, causal evaluation, cost-effectiveness analysis, and longitudinal education research.
 
 ## Available Software
 

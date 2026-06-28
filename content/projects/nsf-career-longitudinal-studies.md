@@ -65,4 +65,4 @@ Within the lab, this is the central project for longitudinal design, power analy
 
 Software tools and training materials from the CAREER project are being developed for public use. Planned outputs include tools for power analysis and sample size planning in longitudinal studies, including R-based and interactive resources.
 
-See also the lab's [software page](/software/).
+See also the lab's [resources page](/resources/).
