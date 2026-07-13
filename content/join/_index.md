@@ -6,6 +6,12 @@ description: "Opportunities for postdoctoral scholars, doctoral students, and co
 We welcome people who are excited about longitudinal design, causal evaluation, education data science, AI, cost-effectiveness, and rigorous evaluation of education programs.
 
 <div class="callout">
+  <h2>LCDS Lab Updates</h2>
+  <p>Receive occasional updates on the lab's research, publications, training, events, and opportunities.</p>
+  <p><a class="button primary" href="https://docs.google.com/forms/d/e/1FAIpQLSfoJBwKR7ABm-rjDHdug3H3jWODEE32sZlCn1BKOhpeqfT3RQ/viewform" target="_blank" rel="noopener">Join the mailing list</a></p>
+</div>
+
+<div class="callout">
   <h2>Postdoctoral opportunities</h2>
   <p>We have funding flexibility for postdoctoral scholars with strong training in statistics, econometrics, or related fields and research interests in causal inference, machine learning, and AI in education.</p>
   <p>Potential projects connect methodological development with applied education questions using longitudinal, administrative, digital-learning, and experimental or quasi-experimental data.</p>

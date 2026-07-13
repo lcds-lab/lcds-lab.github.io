@@ -10,6 +10,9 @@
   </div>
   <div class="footer-links">
     <a href="mailto:{{ .Site.Params.contactEmail }}">{{ .Site.Params.contactEmail }}</a>
+    {{ if ne .Site.Language.Lang "zh" }}
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfoJBwKR7ABm-rjDHdug3H3jWODEE32sZlCn1BKOhpeqfT3RQ/viewform" target="_blank" rel="noopener">Join the mailing list</a>
+    {{ end }}
     <a href="https://github.com/lcds-lab/lcds-lab.github.io">GitHub</a>
   </div>
 </footer>
