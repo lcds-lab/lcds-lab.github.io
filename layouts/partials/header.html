@@ -19,7 +19,7 @@
         <a href="{{ .URL | relURL }}">{{ .Name }}</a>
       {{ end }}
       {{ if .Site.Params.showChineseVersion }}
-        {{ $languageSwitchLabel := "Chinese Version" }}
+        {{ $languageSwitchLabel := "中文版" }}
         {{ $languageSwitchURL := "/zh/" }}
         {{ if eq .Site.Language.Lang "zh" }}
           {{ $languageSwitchLabel = "English Version" }}
