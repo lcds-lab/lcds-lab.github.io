@@ -16,7 +16,7 @@ LCDS 实验室将资助研究组织为两个相互连接的路径。请选择一
     <h2><a href="/zh/research/methodological-research/">方法学研究</a></h2>
     <p>这一方向发展统计方法、研究设计指南、软件和培训资源，用于规划和分析严谨的教育研究。</p>
     <div class="track-stats">
-      <span><strong>3</strong> 项校外资助</span>
+      <span><strong>4</strong> 项校外资助</span>
       <span><strong>5</strong> 项校内资助</span>
     </div>
     <ul class="track-points">

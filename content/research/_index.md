@@ -14,7 +14,7 @@ The LCDS Lab organizes funded work through two connected research pathways. Choo
     <h2><a href="/research/methodological-research/">Methodological Research</a></h2>
     <p>This track develops statistical methods, design guidance, software, and training resources for planning and analyzing rigorous education studies.</p>
     <div class="track-stats">
-      <span><strong>3</strong> external grants</span>
+      <span><strong>4</strong> external grants</span>
       <span><strong>5</strong> internal grants</span>
     </div>
     <ul class="track-points">

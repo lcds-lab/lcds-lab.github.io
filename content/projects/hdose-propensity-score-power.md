@@ -42,6 +42,7 @@ Within the lab, this project extends design and sample-size planning from random
 
 ## Related Projects
 
+- [IES: Propensity Score Analysis of Multilevel Data](/projects/ies-multilevel-propensity-score-review/)
 - [NSF CAREER: Longitudinal Studies in STEM Education](/projects/nsf-career-longitudinal-studies/)
 - [Enhancing Longitudinal Program Evaluations](/projects/lastinger-longitudinal-program-evaluations/)
 - [Causal Discovery for Online Learning Platforms](/projects/hdose-causal-discovery-literacy-matrix/)

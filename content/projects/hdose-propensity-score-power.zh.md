@@ -41,6 +41,7 @@ HDOSE Strategic Reinvestment 项目 **Sample Size and Power Analysis Methods for
 
 ## 相关项目
 
+- [IES：多层数据倾向得分分析](/zh/projects/ies-multilevel-propensity-score-review/)
 - [NSF CAREER：STEM 教育纵向研究](/zh/projects/nsf-career-longitudinal-studies/)
 - [提升纵向项目评估](/zh/projects/lastinger-longitudinal-program-evaluations/)
 - [在线学习平台的因果发现](/zh/projects/hdose-causal-discovery-literacy-matrix/)
