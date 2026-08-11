@@ -13,6 +13,8 @@ weight: 100
 
 IES 项目 **Propensity Score Analysis of Multilevel Data: A Systematic Review** 将系统梳理倾向得分方法在多层教育数据中的应用，并把方法学文献转化为清晰、分步骤的分析与报告框架。
 
+**Wei Li 在本项目中担任共同主持人（Co-Principal Investigator）**，与项目主持人 Walter Leite 和共同主持人 Huibin Zhang 合作开展研究。
+
 在实验室中，该项目连接观察性研究的因果推断、多层数据分析、系统综述方法和面向教育研究者的实用指南，并与实验室关于基于倾向得分准实验研究的功效和样本量规划工作相互支持。
 
 ## 项目信息
@@ -23,6 +25,7 @@ IES 项目 **Propensity Score Analysis of Multilevel Data: A Systematic Review**
 - **项目编号：** R305D260024
 - **项目主持人：** Walter Leite
 - **共同主持人：** Huibin Zhang、Wei Li
+- **Wei Li 的角色：** **共同主持人（Co-Principal Investigator）**
 - **依托机构：** University of Florida
 - **项目周期：** 2026 年 8 月 1 日-2028 年 7 月 31 日
 - **资助金额：** $348,917

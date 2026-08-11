@@ -13,6 +13,8 @@ weight: 100
 
 The IES project, **Propensity Score Analysis of Multilevel Data: A Systematic Review**, will synthesize how propensity score methods have been used with multilevel educational data and translate the methodological literature into an accessible, step-by-step analysis and reporting framework.
 
+**Wei Li serves as a Co-Principal Investigator** on this project, working with Principal Investigator Walter Leite and Co-Principal Investigator Huibin Zhang.
+
 Within the lab, this project connects causal inference for observational studies, multilevel data analysis, systematic-review methods, and practical guidance for education researchers. It complements the lab's work on power and sample-size planning for propensity score-based quasi-experimental studies.
 
 ## Project Information
@@ -23,6 +25,7 @@ Within the lab, this project connects causal inference for observational studies
 - **Award number:** R305D260024
 - **Principal Investigator:** Walter Leite
 - **Co-Principal Investigators:** Huibin Zhang and Wei Li
+- **Wei Li's role:** **Co-Principal Investigator**
 - **Institution:** University of Florida
 - **Project period:** August 1, 2026-July 31, 2028
 - **Award amount:** $348,917
