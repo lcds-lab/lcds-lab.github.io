@@ -2,6 +2,8 @@
 title: "IES Funds Multilevel Propensity Score Systematic Review"
 date: 2026-08-01
 description: "Wei Li serves as a Co-Principal Investigator on a $348,917 IES award supporting a systematic review and practical guidance for propensity score analysis with multilevel educational data."
+more_url: "https://ies.ed.gov/use-work/awards/propensity-score-analysis-multilevel-data-systematic-review"
+more_label: "View the official IES award"
 ---
 
 The Institute of Education Sciences has funded **Propensity Score Analysis of Multilevel Data: A Systematic Review** through its Statistical and Research Methodology in Education program. The two-year University of Florida project will develop research evidence and practical resources for applying propensity score methods to multilevel educational data.

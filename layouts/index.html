@@ -51,6 +51,7 @@
         <span>{{ .Date.Format "2006年1月2日" }}</span>
         <strong><a href="{{ .RelPermalink }}">{{ .Title }}</a></strong>
         {{ with .Description }}<p>{{ . }}</p>{{ end }}
+        {{ if .Params.more_url }}<a class="news-more-link" href="{{ .Params.more_url }}">{{ .Params.more_label }}</a>{{ end }}
       </article>
     {{ end }}
   </div>
@@ -107,6 +108,7 @@
         <span>{{ .Date.Format "January 2, 2006" }}</span>
         <strong><a href="{{ .RelPermalink }}">{{ .Title }}</a></strong>
         {{ with .Description }}<p>{{ . }}</p>{{ end }}
+        {{ if .Params.more_url }}<a class="news-more-link" href="{{ .Params.more_url }}">{{ .Params.more_label }}</a>{{ end }}
       </article>
     {{ end }}
   </div>

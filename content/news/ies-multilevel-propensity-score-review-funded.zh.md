@@ -2,6 +2,8 @@
 title: "IES 资助多层数据倾向得分系统综述"
 date: 2026-08-01
 description: "Wei Li 担任一项 IES 资助项目的共同主持人。该项目获得 $348,917，用于开展多层教育数据倾向得分分析的系统综述并开发实用指南。"
+more_url: "https://ies.ed.gov/use-work/awards/propensity-score-analysis-multilevel-data-systematic-review"
+more_label: "查看 IES 官方项目页面"
 ---
 
 美国教育部教育科学研究院通过 Statistical and Research Methodology in Education 计划资助 **Propensity Score Analysis of Multilevel Data: A Systematic Review**。该 University of Florida 两年期项目将为多层教育数据中的倾向得分方法开发研究证据和实用资源。

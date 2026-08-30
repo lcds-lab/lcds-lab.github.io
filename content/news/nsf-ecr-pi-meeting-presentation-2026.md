@@ -2,6 +2,8 @@
 title: "Wei Li to Present at NSF ECR Awardee Meeting"
 date: 2026-06-30
 description: "Wei Li will attend the 2026 ECR:Core and ECR:BCSER Awardee Meeting and present work on statistical power and design planning for longitudinal STEM studies."
+more_url: "/projects/nsf-career-longitudinal-studies/"
+more_label: "View the NSF CAREER project"
 ---
 
 Wei Li will attend the **2026 ECR:Core and ECR:BCSER Awardee Meeting** and present **"Statistical Power and Design Planning for Longitudinal STEM Studies"** in the lightning roundtable session **Longitudinal Research on Early STEM Learning**.

@@ -2,6 +2,8 @@
 title: "Lab Research Presented at Modern Modeling Methods 2026"
 date: 2026-06-24
 description: "Wei Li and Katherine J. Strickland presented collaborative methodological and applied education research at the 2026 Modern Modeling Methods Conference."
+more_url: "https://modeling.fordham.edu/mmm-2026-full-program/"
+more_label: "View the conference program"
 ---
 
 Wei Li and Katherine J. Strickland presented collaborative work at the **2026 Modern Modeling Methods Conference**.
