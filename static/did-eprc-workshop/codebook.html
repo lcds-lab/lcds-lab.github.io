@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Codebook | EPRC DID Workshop</title><link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="syntax.css"><script src="workshop.js" defer></script></head>
+<body><a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header"><nav class="nav" aria-label="Main navigation">
+<a class="brand" href="index.html"><span class="brand-mark">DID</span><span>EPRC Workshop</span></a>
+<div class="nav-links"><a href="index.html">Home</a>
+<a href="slides.html">Slides</a>
+<a href="workshop.html">Workshop</a>
+<a href="code.html">Code</a>
+<a href="data.html">Data</a>
+<a href="resources.html">Resources</a></div></nav></header>
+<main id="main" class="document ">
+<article><h1 id="data-codebook">Data Codebook</h1>
+<p>The codebook is available directly on the <a href="data.html#codebook">Data page</a></p>
+<h2 id="codebook">Codebook</h2>
+<p>Both downloaded datasets contain these six variables</p>
+<table>
+<thead>
+<tr>
+<th>
+Variable
+</th>
+<th>
+Definition
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<code>district_id</code>
+</td>
+<td>
+<ul>
+<li>
+District identifier from 1 to 832
+</li>
+<li>
+The same identifier follows a district across all seven years
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<code>year</code>
+</td>
+<td>
+<ul>
+<li>
+Study year from 1 to 7
+</li>
+<li>
+Not a calendar year
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<code>treatment_start_year</code>
+</td>
+<td>
+<ul>
+<li>
+First treated year is 5 or 6
+</li>
+<li>
+The traditional DID dataset has only Year 5 adopters
+</li>
+<li>
+0 means never treated
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>
+<code>outcome_std</code>
+</td>
+<td>
+Simulated achievement measured in SD units
+</td>
+</tr>
+<tr>
+<td>
+<code>treated_ever</code>
+</td>
+<td>
+1 if treatment_start_year is greater than 0, otherwise 0. Constant within each district
+</td>
+</tr>
+<tr>
+<td>
+<code>treated</code>
+</td>
+<td>
+1 if treatment_start_year is greater than 0 and year is at least treatment_start_year, otherwise 0
+</td>
+</tr>
+</tbody>
+</table>
+<p>Both treatment indicators are included in the downloads so participants can begin the analysis directly</p>
+</article></main><footer class="footer"><div class="footer-inner">EPRC Methods Workshop Series · University of Florida · October 22, 2026</div></footer></body></html>

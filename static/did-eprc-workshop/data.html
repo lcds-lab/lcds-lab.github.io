@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Data | EPRC DID Workshop</title><link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="syntax.css"><script src="workshop.js" defer></script></head>
+<body><a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header"><nav class="nav" aria-label="Main navigation">
+<a class="brand" href="index.html"><span class="brand-mark">DID</span><span>EPRC Workshop</span></a>
+<div class="nav-links"><a href="index.html">Home</a>
+<a href="slides.html">Slides</a>
+<a href="workshop.html">Workshop</a>
+<a href="code.html">Code</a>
+<a href="data.html" aria-current="page">Data</a>
+<a href="resources.html">Resources</a></div></nav></header>
+<main id="main" class="document ">
+<article><h1 id="data">Data</h1>
+<p>These datasets illustrate a district-level intervention in Texas using 832 simulated districts followed over 7 years. Every district is observed each year, so the panels are balanced. Each row represents one district in one year. Once a district starts treatment, it stays treated for the remaining years.</p>
+<h2 id="download-the-data">Download the Data</h2>
+<table>
+<thead>
+<tr>
+<th>
+Dataset
+</th>
+<th>
+Groups
+</th>
+<th>
+Downloads
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+Traditional DID
+</td>
+<td>
+<ul>
+<li>
+<span class="cohort-label early">Treated</span> 416 districts adopt in Year 5
+</li>
+<li>
+<span class="cohort-label never">Never treated</span> 416 districts
+</li>
+</ul>
+</td>
+<td>
+<a href="assets/data/simple_did_district.csv">CSV</a> · <a href="assets/data/simple_did_district.dta">Stata</a>
+</td>
+</tr>
+<tr>
+<td>
+Staggered DID
+</td>
+<td>
+<ul>
+<li>
+<span class="cohort-label early">Early adopters</span> 208 districts adopt in Year 5
+</li>
+<li>
+<span class="cohort-label late">Late adopters</span> 208 districts adopt in Year 6
+</li>
+<li>
+<span class="cohort-label never">Never treated</span> 416 districts
+</li>
+</ul>
+</td>
+<td>
+<a href="assets/data/staggered_did_district.csv">CSV</a> · <a href="assets/data/staggered_did_district.dta">Stata</a>
+</td>
+</tr>
+</tbody>
+</table>
+<h2 id="codebook">Codebook</h2>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th>Variable</th>
+<th>Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>district_id</code></td>
+<td>District identifier from 1 to 832</td>
+</tr>
+<tr>
+<td><code>year</code></td>
+<td>Study year from 1 to 7</td>
+</tr>
+<tr>
+<td><code>treatment_start_year</code></td>
+<td>First treated year, with 0 for never treated</td>
+</tr>
+<tr>
+<td><code>outcome_std</code></td>
+<td>Achievement measured in standard-deviation (SD) units</td>
+</tr>
+<tr>
+<td><code>treated_ever</code></td>
+<td>1 in every year for a district that eventually adopts, otherwise 0</td>
+</tr>
+<tr>
+<td><code>treated</code></td>
+<td>1 in the adoption year and all later years, otherwise 0</td>
+</tr>
+</tbody>
+</table>
+<p>Both treatment indicators are supplied in the downloads.</p>
+<p><a href="workshop.html">Continue to the Hands-on R Lab</a></p>
+</article></main><footer class="footer"><div class="footer-inner">EPRC Methods Workshop Series · University of Florida · October 22, 2026</div></footer></body></html>
