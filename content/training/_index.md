@@ -23,7 +23,6 @@ aliases:
   <article class="card">
     <h2>Workshops</h2>
     <p>Hands-on workshops on the design and analysis of longitudinal studies using randomized controlled trials and difference-in-differences designs, with planned training opportunities at SREE, AERA, AEFP, and APPAM in the coming years.</p>
-    <p><a href="/did-eprc-workshop/">EPRC Methods Workshop: Difference-in-Differences</a><br>October 22, 2026. Lecture slides, hands-on R lab, code, and data.</p>
   </article>
   <article class="card">
     <h2>Seminars</h2>
