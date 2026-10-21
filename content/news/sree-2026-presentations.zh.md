@@ -7,7 +7,7 @@ more_url: "https://www.sree.org/2026-conference"
 more_label: "查看 SREE 会议议程"
 ---
 
-LCDS 实验室的研究亮相于 9 月 23 至 26 日在美国马里兰州巴尔的摩举行的 **2026 年教育有效性研究学会（SREE）年会**。正式议程列出了三项由 **Wei Li** 或 **Katherine J. Strickland（Kat）**担任报告人的研究，以及一项由 **Wendy Chan** 报告的合作研究。
+LCDS 实验室的研究亮相于 9 月 23 至 26 日在美国马里兰州巴尔的摩举行的 **2026 年教育有效性研究学会（SREE）年会**。正式议程列出了三项由 **Wei Li** 或 **Katherine J. Strickland（Kat）** 担任报告人的研究，以及一项由 **Wendy Chan** 报告的合作研究。
 
 ## 双重差分与研究规划
 
