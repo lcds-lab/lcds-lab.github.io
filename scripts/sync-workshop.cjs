@@ -8,7 +8,7 @@ const files = [
   'index.html', 'slides.html', 'workshop.html', 'code.html', 'data.html',
   'resources.html', 'codebook.html', 'styles.css', 'syntax.css', 'workshop.js',
   'workshop.Rmd', 'code/workshop_lab.R', 'assets/EPRC-DID-Workshop.pdf',
-  'assets/data/simple_did_district.csv', 'assets/data/simple_did_district.dta',
+  'assets/data/traditional_did_district.csv', 'assets/data/traditional_did_district.dta',
   'assets/data/staggered_did_district.csv', 'assets/data/staggered_did_district.dta',
   'assets/figures/lab-pretrends-plot-1.png', 'slides/slides.pdf'
 ];
