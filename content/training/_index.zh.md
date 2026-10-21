@@ -1,6 +1,5 @@
 ---
 title: "培训"
-description: "课程与教学、工作坊、研讨会和活动。"
 hide_child_pages: true
 aliases:
   - /teaching/
@@ -9,13 +8,6 @@ aliases:
   - /events/seminars/
   - /events/reading-methods-group/
 ---
-
-## 课程与教学
-
-- EDF 7474 *Multilevel Models* -- 2021 春、2023 春、2024 春、2025 春、2026 春。
-- EDF 7405 *Advanced Quantitative Foundations of Educational Research* -- 2020 秋、2021 春、2021 秋、2022 夏、2022 秋、2024 秋。
-- EDF 6938 *Special Topic: Multilevel Randomized Trials* -- 2021 秋。
-- 因果评估、多层模型、纵向设计和统计功效分析专题。
 
 ## 工作坊、研讨会和活动
 

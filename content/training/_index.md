@@ -1,6 +1,5 @@
 ---
 title: "Training"
-description: "Courses and teaching, workshops, seminars, and events."
 hide_child_pages: true
 aliases:
   - /teaching/
@@ -9,13 +8,6 @@ aliases:
   - /events/seminars/
   - /events/reading-methods-group/
 ---
-
-## Courses and Teaching
-
-- EDF 7474 *Multilevel Models* -- Spring 2021, Spring 2023, Spring 2024, Spring 2025, Spring 2026.
-- EDF 7405 *Advanced Quantitative Foundations of Educational Research* -- Fall 2020, Spring 2021, Fall 2021, Summer 2022, Fall 2022, Fall 2024.
-- EDF 6938 *Special Topic: Multilevel Randomized Trials* -- Fall 2021.
-- Special topics in causal evaluation, multilevel modeling, longitudinal designs, and statistical power analysis.
 
 ## Workshops, Seminars, and Events
 
