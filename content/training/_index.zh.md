@@ -15,6 +15,12 @@ aliases:
   <article class="card">
     <h2>工作坊</h2>
     <p>未来几年实验室计划在 SREE、AERA、AEFP 和 APPAM 等会议提供关于使用随机试验和双重差分设计进行纵向研究设计与分析的实践型工作坊。</p>
+    <h3>EPRC DID 工作坊：教育研究中的双重差分</h3>
+    <p><strong>2026 年 10 月 22 日。</strong>传统与交错实施的 DID 方法，结合 R 实操应用。</p>
+    <ul>
+      <li><strong>下载幻灯片：</strong>即将提供。</li>
+      <li><a href="https://lcds-lab.github.io/did-eprc-workshop/">进入实操环节（英文）</a></li>
+    </ul>
   </article>
   <article class="card">
     <h2>研讨会</h2>

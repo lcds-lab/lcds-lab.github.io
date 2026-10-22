@@ -15,6 +15,12 @@ aliases:
   <article class="card">
     <h2>Workshops</h2>
     <p>Hands-on workshops on the design and analysis of longitudinal studies using randomized controlled trials and difference-in-differences designs, with planned training opportunities at SREE, AERA, AEFP, and APPAM in the coming years.</p>
+    <h3>EPRC DID Workshop: Difference-in-Differences in Education Research</h3>
+    <p><strong>October 22, 2026.</strong> Traditional and staggered DID, with hands-on R applications.</p>
+    <ul>
+      <li><strong>Download slides:</strong> Coming soon.</li>
+      <li><a href="https://lcds-lab.github.io/did-eprc-workshop/">Open the lab session</a></li>
+    </ul>
   </article>
   <article class="card">
     <h2>Seminars</h2>
