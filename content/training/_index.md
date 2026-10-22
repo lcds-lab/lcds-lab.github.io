@@ -19,7 +19,7 @@ aliases:
     <p><strong>October 22, 2026.</strong> Traditional and staggered DID, with hands-on R applications.</p>
     <ul>
       <li><a href="/files/workshops/eprc-did-workshop-slides-2026-10-22.pdf" download>Download slides (PDF)</a></li>
-      <li><a href="https://lcds-lab.github.io/did-eprc-workshop/">Open the lab session</a></li>
+      <li><a href="https://lcds-lab.github.io/did-eprc-workshop/">Open the workshop session</a></li>
     </ul>
   </article>
   <article class="card">

@@ -19,7 +19,7 @@ aliases:
     <p><strong>2026 年 10 月 22 日。</strong>传统与交错实施的 DID 方法，结合 R 实操应用。</p>
     <ul>
       <li><a href="/files/workshops/eprc-did-workshop-slides-2026-10-22.pdf" download>下载幻灯片（PDF）</a></li>
-      <li><a href="https://lcds-lab.github.io/did-eprc-workshop/">进入实操环节（英文）</a></li>
+      <li><a href="https://lcds-lab.github.io/did-eprc-workshop/">进入工作坊环节（英文）</a></li>
     </ul>
   </article>
   <article class="card">
