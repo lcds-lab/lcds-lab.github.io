@@ -18,7 +18,7 @@ aliases:
     <h3>EPRC DID Workshop: Difference-in-Differences in Education Research</h3>
     <p><strong>October 22, 2026.</strong> Traditional and staggered DID, with hands-on R applications.</p>
     <ul>
-      <li><strong>Download slides:</strong> Coming soon.</li>
+      <li><a href="/files/workshops/eprc-did-workshop-slides-2026-10-22.pdf" download>Download slides (PDF)</a></li>
       <li><a href="https://lcds-lab.github.io/did-eprc-workshop/">Open the lab session</a></li>
     </ul>
   </article>
